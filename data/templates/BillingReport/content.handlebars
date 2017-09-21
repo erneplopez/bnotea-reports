@@ -1,0 +1,123 @@
+<!-- 
+Invoice dynamically rendered into html using handlebars and converted into pdf
+using phantom-pdf recipe. The styles are extracted into separate asset for 
+better readability and later reuse.
+
+Data to this sample are mocked at the design time and should be filled on the 
+incoming API request.
+!-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<style>
+    {#asset BillingReport styles.css @encoding=utf8}
+</style>
+</head>
+<body>
+    <div class="text-center">
+        <h1>{{company}}</h1>
+        <h4>Report automatically generated on {{getCurrentDate}}</h4>
+        <h2>Billing Report</h2>
+        <h4>{{startDate}}-{{endDate}}</h4>
+        <h3>{{client.name}}</h3>
+        <h2>Medicaid Number: {{client.medicaidId}}</h2>
+        <h2>Approval Number:{{client.approvalNumber}}</h2>
+        <h2>Diagnosis: {{client.diagnosis}}</h2>
+    </div>
+    <table class="table table-striped">
+        <tbody>
+             <tr>
+            <th colspan="3">
+                <div class="text-center">
+                    <h3>{{assistant.name}}</h3>
+                    <h2>Provider ID: {{assistant.providerId}}</h2>
+                    <h4>Service: H2014</h4>
+                </div>
+            </th>
+            <th colspan="4">
+                <div class="text-center">
+                    <h3>{{analyst.name}}</h3>
+                    <h2>Provider ID:{{analyst.providerId}}</h2>
+                    <h4>Service: H2019</h4>
+                </div>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Days
+            </th>
+            <th>
+                Units
+            </th>
+            <th>
+                Amount
+            </th>
+            <th>
+                Days
+            </th>
+            <th>
+                Units
+            </th>
+            <th>
+                Amount
+            </th>
+            <th>
+                Total Amount
+            </th>
+        </tr>
+        {{#each invoice}}
+        <tr>
+            <td>
+                {{day}}
+            </td>
+            <td>
+                {{assistantUnits}}
+            </td>
+            <td>
+                {{assistantAmount}}
+            </td>
+            <td>
+                {{day}}
+            </td>
+            <td>
+                {{analystUnits}}
+            </td>
+            <td>
+                {{analystAmount}}
+            </td>
+             <td>
+                {{total assistantAmount analystAmount}}
+            </td>
+        </tr>
+        {{/each}}
+        <tr>
+            <td>
+                 
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                 
+            </td>
+            <td>
+                
+            </td>
+            <td>
+                
+            </td>
+             <td>
+                <h3>{{total invoiceTotals.assistantAmount invoiceTotals.analystAmount}}</h3>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+    

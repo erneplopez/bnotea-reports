@@ -1,0 +1,576 @@
+2017-09-21T14:17:10.979Z - error: Error when processing render request Error during rendering report: Cannot read property 'forEach' of undefined TypeError: Cannot read property 'forEach' of undefined
+    at Object.total (evalmachine.<anonymous>:13:10)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:26:68)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=2
+2017-09-21T14:17:10.982Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Cannot read property 'forEach' of undefined TypeError: Cannot read property 'forEach' of undefined
+    at Object.total (evalmachine.<anonymous>:13:10)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:26:68)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-09-21T14:30:38.974Z - error: Failed to load collection templates Error: Can't insert key AMTH4tdFPLrMpl2U, it violates the unique constraint
+    at _AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:273:19)
+    at AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:307:27)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:77:15)
+    at Index.insertMultipleDocs (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:114:12)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:69:33)
+    at Index.reset (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:55:23)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:107:21
+    at Array.forEach (native)
+    at Datastore.resetIndexes (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:106:29)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:399:17
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:390:9
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:341:7
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:337:11
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\graceful-fs\graceful-fs.js:78:16
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:446:3)
+2017-09-21T14:30:38.977Z - error: Error occured during reporter init Error: Can't insert key AMTH4tdFPLrMpl2U, it violates the unique constraint
+    at _AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:273:19)
+    at AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:307:27)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:77:15)
+    at Index.insertMultipleDocs (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:114:12)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:69:33)
+    at Index.reset (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:55:23)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:107:21
+    at Array.forEach (native)
+    at Datastore.resetIndexes (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:106:29)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:399:17
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:390:9
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:341:7
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:337:11
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\graceful-fs\graceful-fs.js:78:16
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:446:3)
+2017-09-21T14:38:58.153Z - error: Error during processing request: http://localhost:5488/api/report details: Unexpected token } in JSON at position 57 SyntaxError: Unexpected token } in JSON at position 57
+    at Object.parse (native)
+    at parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\types\json.js:88:17)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:262:16)
+    at done (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-09-21T14:56:26.364Z - error: Error when processing render request Error during rendering report: First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object. TypeError: First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.
+    at fromObject (buffer.js:262:9)
+    at Function.Buffer.from (buffer.js:101:10)
+    at new Buffer (buffer.js:80:17)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:189:23
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T14:56:26.367Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object. TypeError: First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.
+    at fromObject (buffer.js:262:9)
+    at Function.Buffer.from (buffer.js:101:10)
+    at new Buffer (buffer.js:80:17)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:189:23
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T14:59:06.847Z - error: Error when processing render request Error during rendering report: Asset Test styles bootstrap-min.css not found Error: Asset Test styles bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T14:59:06.852Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Test styles bootstrap-min.css not found Error: Asset Test styles bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T15:01:04.961Z - error: Error when processing render request Error during rendering report: Asset Test styles/bootstrap-min.css not found Error: Asset Test styles/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T15:01:04.964Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Test styles/bootstrap-min.css not found Error: Asset Test styles/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T15:03:09.155Z - error: Error when processing render request Error during rendering report: Asset Test styles.css/bootstrap-min.css not found Error: Asset Test styles.css/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T15:03:09.158Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Test styles.css/bootstrap-min.css not found Error: Asset Test styles.css/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T15:04:23.820Z - error: Error when processing render request Error during rendering report: Asset Test styles.css/bootstrap-min not found Error: Asset Test styles.css/bootstrap-min not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T15:04:23.824Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Test styles.css/bootstrap-min not found Error: Asset Test styles.css/bootstrap-min not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T15:05:05.798Z - error: Error when processing render request Error during rendering report: Asset Teststyles/bootstrap-min.css not found Error: Asset Teststyles/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=1
+2017-09-21T15:05:05.802Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Teststyles/bootstrap-min.css not found Error: Asset Teststyles/bootstrap-min.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-21T16:36:38.487Z - error: Error during processing request: http://localhost:5488/api/report details: Unexpected token ] in JSON at position 2019 SyntaxError: Unexpected token ] in JSON at position 2019
+    at Object.parse (native)
+    at parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\types\json.js:88:17)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:262:16)
+    at done (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-09-21T16:38:30.272Z - error: Error when processing render request Error during rendering report: Parse error on line 86:
+...                {{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' Error: Parse error on line 86:
+...                {{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-09-21T16:38:30.276Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 86:
+...                {{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' Error: Parse error on line 86:
+...                {{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-09-21T16:39:38.313Z - error: Error when processing render request Error during rendering report: Parse error on line 86:
+...                {{(Number(assistantUni
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'OPEN_SEXPR' Error: Parse error on line 86:
+...                {{(Number(assistantUni
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'OPEN_SEXPR'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-09-21T16:39:38.316Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 86:
+...                {{(Number(assistantUni
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'OPEN_SEXPR' Error: Parse error on line 86:
+...                {{(Number(assistantUni
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'OPEN_SEXPR'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-09-21T16:41:10.033Z - error: Error when processing render request Error during rendering report: Parse error on line 86:
+...                {{{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' Error: Parse error on line 86:
+...                {{{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-09-21T16:41:10.036Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 86:
+...                {{{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' Error: Parse error on line 86:
+...                {{{assistantUnits+analy
+----------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-09-21T16:47:47.712Z - error: Error when processing render request Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14 requestId=1
+2017-09-21T16:47:47.715Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+2017-09-21T16:54:40.544Z - error: Error when processing render request Error during rendering report: Missing helper: "totalHelper" Error: Missing helper: "totalHelper"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:80)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14 requestId=1
+2017-09-21T16:54:40.547Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Missing helper: "totalHelper" Error: Missing helper: "totalHelper"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:80)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+2017-09-21T17:07:21.028Z - error: Error when processing render request Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14 requestId=1
+2017-09-21T17:07:21.031Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+2017-09-21T17:09:29.583Z - error: Error when processing render request Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14 requestId=1
+2017-09-21T17:09:29.586Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Missing helper: "total" Error: Missing helper: "total"
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\helper-missing.js:19:13)
+    at eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:18:68)
+    at prog (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:219:12)
+    at execIteration (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:51:19)
+    at Object.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js:61:13)
+    at Object.eval (eval at createFunctionContext (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:254:23), <anonymous>:22:31)
+    at main (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:173:32)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\runtime.js:176:12)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:525:21)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+2017-09-21T17:41:09.545Z - error: Error during processing request: http://localhost:5488/api/report details: Unexpected string in JSON at position 1998 SyntaxError: Unexpected string in JSON at position 1998
+    at Object.parse (native)
+    at parse (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\types\json.js:88:17)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\body-parser\lib\read.js:116:18
+    at invokeCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:262:16)
+    at done (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:251:7)
+    at IncomingMessage.onEnd (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\raw-body\index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-09-21T18:24:16.483Z - error: Failed to load collection assets Error: Can't insert key Ygbv6hcyXHsV7h85, it violates the unique constraint
+    at _AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:273:19)
+    at AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:307:27)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:77:15)
+    at Index.insertMultipleDocs (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:114:12)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:69:33)
+    at Index.reset (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:55:23)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:107:21
+    at Array.forEach (native)
+    at Datastore.resetIndexes (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:106:29)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:399:17
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:390:9
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:341:7
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:337:11
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\graceful-fs\graceful-fs.js:78:16
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:446:3)
+2017-09-21T18:24:16.486Z - error: Error occured during reporter init Error: Can't insert key Ygbv6hcyXHsV7h85, it violates the unique constraint
+    at _AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:273:19)
+    at AVLTree.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\binary-search-tree\lib\avltree.js:307:27)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:77:15)
+    at Index.insertMultipleDocs (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:114:12)
+    at Index.insert (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:69:33)
+    at Index.reset (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\indexes.js:55:23)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:107:21
+    at Array.forEach (native)
+    at Datastore.resetIndexes (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\nedb\lib\datastore.js:106:29)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:399:17
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:390:9
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:341:7
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:460:16
+    at iteratorCallback (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:1034:13)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\node_modules\async\dist\async.js:944:16
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-fs-store\lib\persistence.js:337:11
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\graceful-fs\graceful-fs.js:78:16
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:446:3)
+2017-09-21T18:24:43.854Z - error: Error when processing render request Error during rendering report: Unexpected token . evalmachine.<anonymous>:10
+.test{
+^
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInNewContext (vm.js:93:10)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-core\lib\render\engineScript.js:164:10)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-09-21T18:24:43.857Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unexpected token . evalmachine.<anonymous>:10
+.test{
+^
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInNewContext (vm.js:93:10)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-core\lib\render\engineScript.js:164:10)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-09-21T18:25:44.976Z - error: Error when processing render request Error during rendering report: Unexpected token . evalmachine.<anonymous>:10
+.test{
+^
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInNewContext (vm.js:93:10)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-core\lib\render\engineScript.js:164:10)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=2
+2017-09-21T18:25:44.978Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unexpected token . evalmachine.<anonymous>:10
+.test{
+^
+SyntaxError: Unexpected token .
+    at createScript (vm.js:56:10)
+    at Object.runInNewContext (vm.js:93:10)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-core\lib\render\engineScript.js:164:10)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-09-21T21:27:39.429Z - error: Error when processing render request Error during rendering report: Asset Test styles.css not found Error: Asset Test styles.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5) requestId=2
+2017-09-21T21:27:39.457Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Asset Test styles.css not found Error: Asset Test styles.css not found
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\jsreport-assets\lib\assets.js:149:15
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\JsReport\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
