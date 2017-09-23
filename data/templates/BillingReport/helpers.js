@@ -1,5 +1,5 @@
 function total(assistantAmount,analystAmount){
-    return Math.round((Number(assistantAmount)+Number(analystAmount))*10)/10;;
+    return Math.round((Number(assistantAmount)+Number(analystAmount))*100)/100;
 }
 function getCurrentDate(){
     currentDate =new Date(Date.now());

@@ -574,3 +574,7 @@ SyntaxError: Unexpected token .
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-09-22T18:03:34.880Z - error: Error during processing request: http://localhost:5488/api/report details: Could not parse report template, aren't you missing content type? undefined
+2017-09-22T18:04:30.067Z - error: Error during processing request: http://localhost:5488/api/report details: Could not parse report template, aren't you missing content type? undefined
+2017-09-22T18:06:13.329Z - error: Error during processing request: http://localhost:5488/api/report details: Could not parse report template, aren't you missing content type? undefined
+2017-09-22T18:08:19.872Z - error: Error during processing request: http://localhost:5488/api/report details: Could not parse report template, aren't you missing content type? undefined
