@@ -1,0 +1,59 @@
+<!-- 
+Invoice dynamically rendered into html using handlebars and converted into pdf
+using phantom-pdf recipe. The styles are extracted into separate asset for 
+better readability and later reuse.
+
+Data to this sample are mocked at the design time and should be filled on the 
+incoming API request.
+!-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<style>
+    {#asset BillingMasterReport styles.css @encoding=utf8}
+</style>
+</head>
+<body>
+    <div class="text-center">
+        <h2>{{masterClients.0.company}}</h2>
+        <h4>Report automatically generated on {{getCurrentDate}}</h4>
+        <h2>Billing Master Report</h2>
+      
+    </div>
+  
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>Client</th>
+            <th>Medicaid Number</th>
+            <th>Analyst</th>
+            <th>Amount</th>
+            <th>Assistant</th>
+            <th>Amount</th>
+            <th>Period</th>
+            <th>Check</th>
+        </tr>
+        {{#each masterClients}}
+        <tr>
+            <td>{{client}}</td>
+            <td>{{medicaidNumber}}</td>
+            <td>{{analyst}}</td>
+            <td>{{analystAmount}}</td>
+            <td>{{assistant}}</td>
+            <td>{{assistantAmount}}</td>
+            <td>{{period}}</td>
+            <td></td>
+        </tr>
+        {{/each}}
+      
+        </tbody>
+    </table>
+   
+     
+    
+</body>
+</html>
+    
