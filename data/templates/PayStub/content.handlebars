@@ -1,0 +1,66 @@
+<!-- 
+Invoice dynamically rendered into html using handlebars and converted into pdf
+using phantom-pdf recipe. The styles are extracted into separate asset for 
+better readability and later reuse.
+
+Data to this sample are mocked at the design time and should be filled on the 
+incoming API request.
+!-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<style>
+    {#asset PayStub styles.css @encoding=utf8}
+</style>
+</head>
+<body>
+    <div class="text-center">
+        <h2>{{stub.0.company}}</h2>
+        <h4>Report automatically generated on {{getCurrentDate}}</h4>
+        <h2>Pay Stub</h2>
+        <h2>{{stub.0.author}}</h2>
+        <h3>Provider ID: {{stub.0.providerId}}</h3>
+    </div>
+  
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>Report Period</th>
+            <th>Client</th>
+            <th>Medicaid Number</th>
+            <th>Units</th>
+            <th>Hours</th>
+            <th>Hourly Rate</th>
+            <th>Amount</th>
+        </tr>
+        {{#each stub}}
+        <tr>
+            <td>{{getPeriod startDate endDate}}</td>
+            <td>{{client}}</td>
+            <td>{{medicaidNumber}}</td>
+            <td>{{units}}</td>
+            <td>{{hours}}</td>
+            <td>${{hourlyRate}}</td>
+            <td>${{amount}}</td>
+        </tr>
+        {{/each}}
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><h4>Total Amount:</h4></td>
+            <td><h3>${{getTotalAmount stub}}</h3></td>
+        </tr>
+        </tbody>
+    </table>
+   
+     
+    
+</body>
+</html>
+    
