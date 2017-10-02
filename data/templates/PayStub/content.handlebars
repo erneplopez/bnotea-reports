@@ -18,11 +18,11 @@ incoming API request.
 </head>
 <body>
     <div class="text-center">
-        <h2>{{stub.0.company}}</h2>
+        <h2>{{document.0.company}}</h2>
         <h4>Report automatically generated on {{getCurrentDate}}</h4>
         <h2>Pay Stub</h2>
-        <h2>{{stub.0.author}}</h2>
-        <h3>Provider ID: {{stub.0.providerId}}</h3>
+        <h2>{{document.0.author}}</h2>
+        <h3>Provider ID: {{document.0.providerId}}</h3>
     </div>
   
     <table class="table">
@@ -36,7 +36,7 @@ incoming API request.
             <th>Hourly Rate</th>
             <th>Amount</th>
         </tr>
-        {{#each stub}}
+        {{#each document}}
         <tr>
             <td>{{getPeriod startDate endDate}}</td>
             <td>{{client}}</td>
@@ -54,7 +54,7 @@ incoming API request.
             <td></td>
             <td></td>
             <td><h4>Total Amount:</h4></td>
-            <td><h3>${{getTotalAmount stub}}</h3></td>
+            <td><h3>${{getTotalAmount document}}</h3></td>
         </tr>
         </tbody>
     </table>

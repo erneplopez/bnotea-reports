@@ -18,18 +18,18 @@ incoming API request.
 </head>
 <body>
     <div class="text-center">
-        <h2>{{reports.0.company}}</h2>
+        <h2>{{document.0.company}}</h2>
         <h4>Report automatically generated on {{getCurrentDate}}</h4>
         <h2>Billing Report</h2>
-         {{#each reports}}
+         {{#each document}}
          <h4>{{startDate}} - {{endDate}} {{completed invoiceTotals}}</h4> 
           {{/each}}
-        <h3>{{reports.0.client.name}}</h3>
-        <h2>Medicaid Number: {{reports.0.client.medicaidId}}</h2>
-        <h2>Approval Number:{{reports.0.client.approvalNumber}}</h2>
-        <h2>Diagnosis: {{reports.0.client.diagnosis}}</h2>
+        <h3>{{document.0.client.name}}</h3>
+        <h2>Medicaid Number: {{document.0.client.medicaidId}}</h2>
+        <h2>Approval Number:{{document.0.client.approvalNumber}}</h2>
+        <h2>Diagnosis: {{document.0.client.diagnosis}}</h2>
     </div>
-    {{#each reports}}
+    {{#each document}}
     <table class="table">
         <tbody>
              <tr>
@@ -101,7 +101,7 @@ incoming API request.
     </table>
      {{/each}}
      
-    <h3>Grand Total = {{grandTotal reports}}</h3>
+    <h3>Grand Total = {{grandTotal document}}</h3>
 </body>
 </html>
     

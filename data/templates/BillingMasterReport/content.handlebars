@@ -18,9 +18,9 @@ incoming API request.
 </head>
 <body>
     <div class="text-center">
-        <h2>{{masterClients.0.company}}</h2>
+        <h2>{{document.0.company}}</h2>
         <h4>Report automatically generated on {{getCurrentDate}}</h4>
-        <h2>Billing Master Report</h2>
+        <h2>{{document.0.type}} Billing Master Report</h2>
       
     </div>
   
@@ -36,7 +36,7 @@ incoming API request.
             <th>Period</th>
             <th>Check</th>
         </tr>
-        {{#each masterClients}}
+        {{#each document}}
         <tr>
             <td>{{client}}</td>
             <td>{{medicaidNumber}}</td>

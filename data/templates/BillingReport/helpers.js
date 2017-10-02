@@ -1,3 +1,5 @@
+var moment=require("moment");
+
 function total(assistantAmount,analystAmount){
     let amount=0;
     if(assistantAmount){
@@ -13,9 +15,11 @@ function total(assistantAmount,analystAmount){
         return Math.round(amount*100)/100;
     }
 }
+
+
 function getCurrentDate(){
-    currentDate =new Date(Date.now());
-    return (currentDate.getMonth()+1)+"/"+currentDate.getDate()+"/"+currentDate.getFullYear();
+    let  currentDate =moment(Date.now());
+    return currentDate.format("MM/DD/YYYY HH:mm:ss")
 }
 function grandTotal(reports){
     var grandTotal=0;

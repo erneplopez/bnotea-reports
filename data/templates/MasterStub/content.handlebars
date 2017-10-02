@@ -18,7 +18,7 @@ incoming API request.
 </head>
 <body>
     <div class="text-center">
-        <h2>{{masterStubs.0.company}}</h2>
+        <h2>{{document.0.company}}</h2>
         <h4>Report automatically generated on {{getCurrentDate}}</h4>
         <h2>Master Stub</h2>
     </div>
@@ -32,7 +32,7 @@ incoming API request.
             <th>Hourly Rate</th>
             <th>Amount</th>
         </tr>
-        {{#each masterStubs}}
+        {{#each document}}
         <tr>
             <td>{{name}}</td>
             <td>{{providerId}}</td>
@@ -46,7 +46,7 @@ incoming API request.
             <td></td>
             <td></td>
             <td><h4>Total Amount:</h4></td>
-            <td><h3>${{getTotalAmount masterStubs}}</h3></td>
+            <td><h3>${{getTotalAmount document}}</h3></td>
         </tr>
         </tbody>
     </table>

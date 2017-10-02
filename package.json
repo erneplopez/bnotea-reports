@@ -9,6 +9,7 @@
     "entryPoint": "server.js"
   },
   "dependencies": {
-    "jsreport": "1.8.2"
+    "jsreport": "1.8.2",
+    "moment": "^2.18.1"
   }
 }

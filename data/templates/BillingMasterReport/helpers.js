@@ -1,5 +1,8 @@
+var moment=require("moment");
 
 function getCurrentDate(){
-    currentDate =new Date(Date.now());
-    return (currentDate.getMonth()+1)+"/"+currentDate.getDate()+"/"+currentDate.getFullYear();
+    let  currentDate =moment(Date.now());
+    return currentDate.format("MM/DD/YYYY HH:mm:ss")
 }
+
+
