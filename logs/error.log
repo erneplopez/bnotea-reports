@@ -3536,3 +3536,473 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
     at ContextifyScript.Script.runInContext (vm.js:35:29)
     at ContextifyScript.Script.runInNewContext (vm.js:41:15)
     at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:06:06.035Z - error: Error when starting http server on port 5488 Error: listen EADDRINUSE :::5488
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:23:12
+    at Promise._execute (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\debuggability.js:300:9)
+    at Promise._resolveFromExecutor (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:483:18)
+    at new Promise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:79:10)
+    at startAsync (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:15:10)
+    at startExpressApp (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:49:12)
+    at .<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:184:12)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:171:33
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:151:16
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-10-03T15:06:06.041Z - error: Error occured during reporter init Error: listen EADDRINUSE :::5488
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:23:12
+    at Promise._execute (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\debuggability.js:300:9)
+    at Promise._resolveFromExecutor (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:483:18)
+    at new Promise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:79:10)
+    at startAsync (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:15:10)
+    at startExpressApp (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:49:12)
+    at .<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:184:12)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:171:33
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:151:16
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-10-03T15:06:44.883Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:2:15
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:06:44.886Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:2:15
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:08:26.583Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:08:26.586Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:09:32.019Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:3:14
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:09:32.021Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:3:14
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:12:14.654Z - error: Error when processing render request Error during rendering report: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+ Error: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:12:14.657Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+ Error: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:14:24.598Z - error: Error when processing render request Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:14:24.601Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:15:35.676Z - error: Error when processing render request Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:15:35.679Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:18:17.686Z - error: Error when processing render request Error during rendering report: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+ Error: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:18:17.689Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+ Error: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:19:30.310Z - error: Error when processing render request Error during rendering report: Client is not defined ReferenceError: Client is not defined
+    at beforeRender (evalmachine.<anonymous>:10:5)
+    at evalmachine.<anonymous>:20:111
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:19:30.312Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Client is not defined ReferenceError: Client is not defined
+    at beforeRender (evalmachine.<anonymous>:10:5)
+    at evalmachine.<anonymous>:20:111
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:20:56.070Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:20:56.073Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:21:47.923Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:21:47.926Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:22:38.549Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER' Error: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:22:38.553Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER' Error: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)

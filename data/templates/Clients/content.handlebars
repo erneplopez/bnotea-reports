@@ -1,0 +1,69 @@
+<!-- 
+Invoice dynamically rendered into html using handlebars and converted into pdf
+using phantom-pdf recipe. The styles are extracted into separate asset for 
+better readability and later reuse.
+
+Data to this sample are mocked at the design time and should be filled on the 
+incoming API request.
+!-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<style>
+    {#asset Clients styles.css @encoding=utf8}
+</style>
+</head>
+<body>
+    <table class="table">
+        <tbody>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Medicaid Number
+            </th>
+            <th>
+                Guardian
+            </th>
+            <th>
+                Phone
+            </th>
+            <th>
+                Assistant
+            </th>
+            <th>
+                Analyst
+            </th>
+        </tr>
+        {{#each clients}}
+        <tr>
+            <td>
+                {{getName firstName lastName}}
+            </td>
+            <td>
+                {{medicaidNumber}}
+            </td>
+            <td>
+                {{guardian}}
+            </td>
+            <td>
+                {{phone}}
+            </td>
+            <td>
+                {{getName analyst.firstName analyst.lastName}}
+            </td>
+            <td>
+                {{getName assistant.firstName assistant.lastName}}
+            </td>
+        </tr>
+        {{/each}}
+      
+        </tbody>
+    </table>
+</body>
+</html>
+    

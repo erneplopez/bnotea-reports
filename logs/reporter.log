@@ -16064,3 +16064,1646 @@ Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 
 2017-10-02T20:38:22.016Z - info: Rendering request 181 finished in 2554 ms requestId=181
 2017-10-02T20:38:22.018Z - info: Rendering request 182 finished in 2555 ms requestId=182
 2017-10-02T20:38:22.228Z - info: Rendering request 183 finished in 2765 ms requestId=183
+2017-10-02T23:37:06.266Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-02T23:37:06.274Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-02T23:37:06.277Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-02T23:37:06.283Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-02T23:37:06.307Z - info: Found 30 extensions
+2017-10-02T23:37:06.328Z - info: Using extension import-export
+2017-10-02T23:37:06.482Z - info: Using extension tags
+2017-10-02T23:37:06.487Z - info: Using extension templates
+2017-10-02T23:37:06.492Z - info: Using extension jsrender
+2017-10-02T23:37:06.493Z - info: Using extension cli
+2017-10-02T23:37:06.495Z - info: Using extension handlebars
+2017-10-02T23:37:06.496Z - info: Using extension debug
+2017-10-02T23:37:06.497Z - info: Using extension express
+2017-10-02T23:37:06.571Z - info: Using extension fop-pdf
+2017-10-02T23:37:06.576Z - info: Using extension phantom-pdf
+2017-10-02T23:37:06.617Z - info: Using extension fs-store
+2017-10-02T23:37:06.841Z - info: Using extension authorization
+2017-10-02T23:37:06.843Z - info: Using extension images
+2017-10-02T23:37:06.849Z - info: Using extension child-templates
+2017-10-02T23:37:06.853Z - info: Using extension browser-client
+2017-10-02T23:37:06.855Z - info: Using extension licensing
+2017-10-02T23:37:06.895Z - info: Using extension data
+2017-10-02T23:37:06.898Z - info: Using extension text
+2017-10-02T23:37:06.911Z - info: Using extension reports
+2017-10-02T23:37:06.916Z - info: Using extension resources
+2017-10-02T23:37:06.918Z - info: Using extension base
+2017-10-02T23:37:06.919Z - info: Using extension studio
+2017-10-02T23:37:06.997Z - info: Using extension html-to-xlsx
+2017-10-02T23:37:07.059Z - info: Using extension scripts
+2017-10-02T23:37:07.062Z - info: Using extension assets
+2017-10-02T23:37:07.068Z - info: Using extension scheduling
+2017-10-02T23:37:07.099Z - info: Using extension xlsx
+2017-10-02T23:37:07.230Z - info: Using extension sample-template
+2017-10-02T23:37:07.232Z - info: Using extension public-templates
+2017-10-02T23:37:07.237Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-02T23:37:07.395Z - info: Creating default express app.
+2017-10-02T23:37:07.441Z - info: jsreport server successfully started on http port: 5488
+2017-10-02T23:37:07.446Z - info: Verifying license key free
+2017-10-02T23:37:07.447Z - info: Using free license
+2017-10-02T23:37:07.450Z - info: reporter initialized
+2017-10-02T23:39:16.167Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-02T23:39:16.170Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-02T23:39:17.246Z - info: Rendering request 1 finished in 1080 ms requestId=1
+2017-10-02T23:41:02.996Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-10-02T23:41:02.998Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-10-02T23:41:03.000Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-10-02T23:41:03.002Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-10-02T23:41:03.004Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-10-02T23:41:03.008Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-10-02T23:41:03.009Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-10-02T23:41:03.010Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-10-02T23:41:04.933Z - info: Rendering request 4 finished in 1933 ms requestId=4
+2017-10-02T23:41:04.936Z - info: Rendering request 3 finished in 1938 ms requestId=3
+2017-10-02T23:41:05.004Z - info: Rendering request 2 finished in 2007 ms requestId=2
+2017-10-02T23:41:05.155Z - info: Rendering request 5 finished in 2143 ms requestId=5
+2017-10-02T23:50:29.912Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-10-02T23:50:29.914Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-10-02T23:50:29.915Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-10-02T23:50:29.916Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-10-02T23:50:29.918Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-10-02T23:50:29.919Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-10-02T23:50:29.921Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-10-02T23:50:29.922Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-10-02T23:50:29.923Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-10-02T23:50:29.924Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-10-02T23:50:29.928Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-10-02T23:50:29.939Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-10-02T23:50:32.787Z - info: Rendering request 6 finished in 2875 ms requestId=6
+2017-10-02T23:50:32.802Z - info: Rendering request 11 finished in 2883 ms requestId=11
+2017-10-02T23:50:32.846Z - info: Rendering request 10 finished in 2929 ms requestId=10
+2017-10-02T23:50:32.903Z - info: Rendering request 7 finished in 2989 ms requestId=7
+2017-10-02T23:50:32.951Z - info: Rendering request 9 finished in 3035 ms requestId=9
+2017-10-02T23:50:32.954Z - info: Rendering request 8 finished in 3038 ms requestId=8
+2017-10-03T15:06:03.171Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:06:03.174Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:06:03.178Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:06:03.185Z - info: Extensions location cache C:\Users\ernep\AppData\Local\Temp\jsreport-temp\extensions\locations.json contains older information, crawling
+2017-10-03T15:06:04.720Z - info: Found 30 extensions
+2017-10-03T15:06:04.741Z - info: Using extension import-export
+2017-10-03T15:06:04.931Z - info: Using extension tags
+2017-10-03T15:06:04.939Z - info: Using extension templates
+2017-10-03T15:06:04.942Z - info: Using extension jsrender
+2017-10-03T15:06:04.944Z - info: Using extension cli
+2017-10-03T15:06:04.944Z - info: Using extension handlebars
+2017-10-03T15:06:04.947Z - info: Using extension debug
+2017-10-03T15:06:04.948Z - info: Using extension express
+2017-10-03T15:06:05.033Z - info: Using extension fop-pdf
+2017-10-03T15:06:05.042Z - info: Using extension phantom-pdf
+2017-10-03T15:06:05.092Z - info: Using extension fs-store
+2017-10-03T15:06:05.294Z - info: Using extension authorization
+2017-10-03T15:06:05.297Z - info: Using extension images
+2017-10-03T15:06:05.302Z - info: Using extension child-templates
+2017-10-03T15:06:05.306Z - info: Using extension browser-client
+2017-10-03T15:06:05.307Z - info: Using extension licensing
+2017-10-03T15:06:05.359Z - info: Using extension data
+2017-10-03T15:06:05.361Z - info: Using extension text
+2017-10-03T15:06:05.362Z - info: Using extension reports
+2017-10-03T15:06:05.368Z - info: Using extension resources
+2017-10-03T15:06:05.370Z - info: Using extension base
+2017-10-03T15:06:05.371Z - info: Using extension studio
+2017-10-03T15:06:05.452Z - info: Using extension html-to-xlsx
+2017-10-03T15:06:05.536Z - info: Using extension scripts
+2017-10-03T15:06:05.539Z - info: Using extension assets
+2017-10-03T15:06:05.546Z - info: Using extension scheduling
+2017-10-03T15:06:05.581Z - info: Using extension xlsx
+2017-10-03T15:06:05.735Z - info: Using extension sample-template
+2017-10-03T15:06:05.737Z - info: Using extension public-templates
+2017-10-03T15:06:05.747Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:06:05.957Z - info: Creating default express app.
+2017-10-03T15:06:06.035Z - error: Error when starting http server on port 5488 Error: listen EADDRINUSE :::5488
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:23:12
+    at Promise._execute (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\debuggability.js:300:9)
+    at Promise._resolveFromExecutor (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:483:18)
+    at new Promise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:79:10)
+    at startAsync (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:15:10)
+    at startExpressApp (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:49:12)
+    at .<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:184:12)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:171:33
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:151:16
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-10-03T15:06:06.041Z - error: Error occured during reporter init Error: listen EADDRINUSE :::5488
+    at Object.exports._errnoException (util.js:1018:11)
+    at exports._exceptionWithHostPort (util.js:1041:20)
+    at Server._listen2 (net.js:1258:14)
+    at listen (net.js:1294:10)
+    at Server.listen (net.js:1390:5)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:23:12
+    at Promise._execute (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\debuggability.js:300:9)
+    at Promise._resolveFromExecutor (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:483:18)
+    at new Promise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\bluebird\js\release\promise.js:79:10)
+    at startAsync (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:15:10)
+    at startExpressApp (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:49:12)
+    at .<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-express\lib\reporter.express.js:184:12)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:171:33
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\lib\listenerCollection.js:151:16
+    at tryCatcher (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:510:31)
+    at Promise._settlePromise (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:567:18)
+    at Promise._settlePromise0 (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:612:10)
+    at Promise._settlePromises (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:691:18)
+    at Async._drainQueue (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2017-10-03T15:06:32.162Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:06:32.164Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:06:32.168Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:06:32.175Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:06:32.212Z - info: Found 30 extensions
+2017-10-03T15:06:32.234Z - info: Using extension import-export
+2017-10-03T15:06:32.445Z - info: Using extension tags
+2017-10-03T15:06:32.452Z - info: Using extension templates
+2017-10-03T15:06:32.458Z - info: Using extension jsrender
+2017-10-03T15:06:32.460Z - info: Using extension cli
+2017-10-03T15:06:32.462Z - info: Using extension handlebars
+2017-10-03T15:06:32.465Z - info: Using extension debug
+2017-10-03T15:06:32.470Z - info: Using extension express
+2017-10-03T15:06:32.585Z - info: Using extension fop-pdf
+2017-10-03T15:06:32.592Z - info: Using extension phantom-pdf
+2017-10-03T15:06:32.666Z - info: Using extension fs-store
+2017-10-03T15:06:32.897Z - info: Using extension authorization
+2017-10-03T15:06:32.903Z - info: Using extension images
+2017-10-03T15:06:32.911Z - info: Using extension child-templates
+2017-10-03T15:06:32.918Z - info: Using extension browser-client
+2017-10-03T15:06:32.921Z - info: Using extension licensing
+2017-10-03T15:06:32.968Z - info: Using extension data
+2017-10-03T15:06:32.970Z - info: Using extension text
+2017-10-03T15:06:32.971Z - info: Using extension reports
+2017-10-03T15:06:32.976Z - info: Using extension resources
+2017-10-03T15:06:32.979Z - info: Using extension base
+2017-10-03T15:06:32.980Z - info: Using extension studio
+2017-10-03T15:06:33.067Z - info: Using extension html-to-xlsx
+2017-10-03T15:06:33.148Z - info: Using extension scripts
+2017-10-03T15:06:33.151Z - info: Using extension assets
+2017-10-03T15:06:33.158Z - info: Using extension scheduling
+2017-10-03T15:06:33.198Z - info: Using extension xlsx
+2017-10-03T15:06:33.362Z - info: Using extension sample-template
+2017-10-03T15:06:33.364Z - info: Using extension public-templates
+2017-10-03T15:06:33.371Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:06:33.543Z - info: Creating default express app.
+2017-10-03T15:06:33.597Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:06:33.603Z - info: Verifying license key free
+2017-10-03T15:06:33.607Z - info: Using free license
+2017-10-03T15:06:33.613Z - info: reporter initialized
+2017-10-03T15:06:44.632Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:06:44.634Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:06:44.883Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:2:15
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:06:44.886Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: require. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["require"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:2:15
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:08:15.568Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:08:15.570Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:08:15.574Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:08:15.581Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:08:15.622Z - info: Found 30 extensions
+2017-10-03T15:08:15.649Z - info: Using extension import-export
+2017-10-03T15:08:15.861Z - info: Using extension tags
+2017-10-03T15:08:15.870Z - info: Using extension templates
+2017-10-03T15:08:15.873Z - info: Using extension jsrender
+2017-10-03T15:08:15.875Z - info: Using extension cli
+2017-10-03T15:08:15.878Z - info: Using extension handlebars
+2017-10-03T15:08:15.880Z - info: Using extension debug
+2017-10-03T15:08:15.882Z - info: Using extension express
+2017-10-03T15:08:16.092Z - info: Using extension fop-pdf
+2017-10-03T15:08:16.102Z - info: Using extension phantom-pdf
+2017-10-03T15:08:16.192Z - info: Using extension fs-store
+2017-10-03T15:08:16.467Z - info: Using extension authorization
+2017-10-03T15:08:16.471Z - info: Using extension images
+2017-10-03T15:08:16.478Z - info: Using extension child-templates
+2017-10-03T15:08:16.484Z - info: Using extension browser-client
+2017-10-03T15:08:16.487Z - info: Using extension licensing
+2017-10-03T15:08:16.539Z - info: Using extension data
+2017-10-03T15:08:16.540Z - info: Using extension text
+2017-10-03T15:08:16.542Z - info: Using extension reports
+2017-10-03T15:08:16.546Z - info: Using extension resources
+2017-10-03T15:08:16.547Z - info: Using extension base
+2017-10-03T15:08:16.549Z - info: Using extension studio
+2017-10-03T15:08:16.638Z - info: Using extension html-to-xlsx
+2017-10-03T15:08:16.724Z - info: Using extension scripts
+2017-10-03T15:08:16.727Z - info: Using extension assets
+2017-10-03T15:08:16.734Z - info: Using extension scheduling
+2017-10-03T15:08:16.766Z - info: Using extension xlsx
+2017-10-03T15:08:16.929Z - info: Using extension sample-template
+2017-10-03T15:08:16.931Z - info: Using extension public-templates
+2017-10-03T15:08:16.940Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:08:17.129Z - info: Creating default express app.
+2017-10-03T15:08:17.181Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:08:17.189Z - info: Verifying license key free
+2017-10-03T15:08:17.193Z - info: Using free license
+2017-10-03T15:08:17.203Z - info: reporter initialized
+2017-10-03T15:08:26.000Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:08:26.003Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:08:26.583Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:08:26.586Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: ../../../../../private/mongooseConnect. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["../../../../../private/mongooseConnect"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:09:26.871Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:09:26.874Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:09:26.879Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:09:26.893Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:09:26.931Z - info: Found 30 extensions
+2017-10-03T15:09:26.966Z - info: Using extension import-export
+2017-10-03T15:09:27.244Z - info: Using extension tags
+2017-10-03T15:09:27.257Z - info: Using extension templates
+2017-10-03T15:09:27.262Z - info: Using extension jsrender
+2017-10-03T15:09:27.264Z - info: Using extension cli
+2017-10-03T15:09:27.267Z - info: Using extension handlebars
+2017-10-03T15:09:27.269Z - info: Using extension debug
+2017-10-03T15:09:27.272Z - info: Using extension express
+2017-10-03T15:09:27.392Z - info: Using extension fop-pdf
+2017-10-03T15:09:27.403Z - info: Using extension phantom-pdf
+2017-10-03T15:09:27.482Z - info: Using extension fs-store
+2017-10-03T15:09:27.705Z - info: Using extension authorization
+2017-10-03T15:09:27.707Z - info: Using extension images
+2017-10-03T15:09:27.712Z - info: Using extension child-templates
+2017-10-03T15:09:27.716Z - info: Using extension browser-client
+2017-10-03T15:09:27.717Z - info: Using extension licensing
+2017-10-03T15:09:27.763Z - info: Using extension data
+2017-10-03T15:09:27.765Z - info: Using extension text
+2017-10-03T15:09:27.766Z - info: Using extension reports
+2017-10-03T15:09:27.769Z - info: Using extension resources
+2017-10-03T15:09:27.771Z - info: Using extension base
+2017-10-03T15:09:27.773Z - info: Using extension studio
+2017-10-03T15:09:27.867Z - info: Using extension html-to-xlsx
+2017-10-03T15:09:27.960Z - info: Using extension scripts
+2017-10-03T15:09:27.963Z - info: Using extension assets
+2017-10-03T15:09:27.970Z - info: Using extension scheduling
+2017-10-03T15:09:28.015Z - info: Using extension xlsx
+2017-10-03T15:09:28.197Z - info: Using extension sample-template
+2017-10-03T15:09:28.200Z - info: Using extension public-templates
+2017-10-03T15:09:28.216Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:09:28.513Z - info: Creating default express app.
+2017-10-03T15:09:28.582Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:09:28.587Z - info: Verifying license key free
+2017-10-03T15:09:28.588Z - info: Using free license
+2017-10-03T15:09:28.592Z - info: reporter initialized
+2017-10-03T15:09:31.706Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:09:31.709Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:09:32.019Z - error: Error when processing render request Error during rendering report: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:3:14
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:09:32.021Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything Error: Unsupported module in scripts: mongoose. To enable require on particular module, you need to update the configuration as {"scripts": { "allowedModules": ["mongoose"] } } ... Alternatively you can also set "*" to allowedModules to enable everything
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:44:11)
+    at evalmachine.<anonymous>:3:14
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:12:07.756Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:12:07.758Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:12:07.762Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:12:07.769Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:12:07.814Z - info: Found 30 extensions
+2017-10-03T15:12:07.905Z - info: Using extension import-export
+2017-10-03T15:12:08.193Z - info: Using extension tags
+2017-10-03T15:12:08.206Z - info: Using extension templates
+2017-10-03T15:12:08.212Z - info: Using extension jsrender
+2017-10-03T15:12:08.214Z - info: Using extension cli
+2017-10-03T15:12:08.218Z - info: Using extension handlebars
+2017-10-03T15:12:08.224Z - info: Using extension debug
+2017-10-03T15:12:08.230Z - info: Using extension express
+2017-10-03T15:12:08.366Z - info: Using extension fop-pdf
+2017-10-03T15:12:08.373Z - info: Using extension phantom-pdf
+2017-10-03T15:12:08.438Z - info: Using extension fs-store
+2017-10-03T15:12:08.622Z - info: Using extension authorization
+2017-10-03T15:12:08.625Z - info: Using extension images
+2017-10-03T15:12:08.631Z - info: Using extension child-templates
+2017-10-03T15:12:08.634Z - info: Using extension browser-client
+2017-10-03T15:12:08.636Z - info: Using extension licensing
+2017-10-03T15:12:08.674Z - info: Using extension data
+2017-10-03T15:12:08.677Z - info: Using extension text
+2017-10-03T15:12:08.678Z - info: Using extension reports
+2017-10-03T15:12:08.686Z - info: Using extension resources
+2017-10-03T15:12:08.689Z - info: Using extension base
+2017-10-03T15:12:08.690Z - info: Using extension studio
+2017-10-03T15:12:08.785Z - info: Using extension html-to-xlsx
+2017-10-03T15:12:08.860Z - info: Using extension scripts
+2017-10-03T15:12:08.864Z - info: Using extension assets
+2017-10-03T15:12:08.869Z - info: Using extension scheduling
+2017-10-03T15:12:08.904Z - info: Using extension xlsx
+2017-10-03T15:12:09.033Z - info: Using extension sample-template
+2017-10-03T15:12:09.036Z - info: Using extension public-templates
+2017-10-03T15:12:09.042Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:12:09.215Z - info: Creating default express app.
+2017-10-03T15:12:09.283Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:12:09.288Z - info: Verifying license key free
+2017-10-03T15:12:09.290Z - info: Using free license
+2017-10-03T15:12:09.292Z - info: reporter initialized
+2017-10-03T15:12:14.071Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:12:14.074Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:12:14.654Z - error: Error when processing render request Error during rendering report: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+ Error: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:12:14.657Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+ Error: Unable to find module ../../../../../private/mongooseConnect
+Searched paths: 
+../../../../../private/mongooseConnect
+../../../../../private/mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\private\mongooseConnect
+C:\Users\ernep\OneDrive\Ernesto\CODE\private\mongooseConnect
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:4:23
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:14:15.854Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:14:15.860Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:14:15.864Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:14:15.871Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:14:15.898Z - info: Found 30 extensions
+2017-10-03T15:14:15.920Z - info: Using extension import-export
+2017-10-03T15:14:16.104Z - info: Using extension tags
+2017-10-03T15:14:16.110Z - info: Using extension templates
+2017-10-03T15:14:16.114Z - info: Using extension jsrender
+2017-10-03T15:14:16.116Z - info: Using extension cli
+2017-10-03T15:14:16.117Z - info: Using extension handlebars
+2017-10-03T15:14:16.119Z - info: Using extension debug
+2017-10-03T15:14:16.120Z - info: Using extension express
+2017-10-03T15:14:16.210Z - info: Using extension fop-pdf
+2017-10-03T15:14:16.216Z - info: Using extension phantom-pdf
+2017-10-03T15:14:16.257Z - info: Using extension fs-store
+2017-10-03T15:14:16.422Z - info: Using extension authorization
+2017-10-03T15:14:16.425Z - info: Using extension images
+2017-10-03T15:14:16.429Z - info: Using extension child-templates
+2017-10-03T15:14:16.433Z - info: Using extension browser-client
+2017-10-03T15:14:16.435Z - info: Using extension licensing
+2017-10-03T15:14:16.468Z - info: Using extension data
+2017-10-03T15:14:16.471Z - info: Using extension text
+2017-10-03T15:14:16.472Z - info: Using extension reports
+2017-10-03T15:14:16.475Z - info: Using extension resources
+2017-10-03T15:14:16.477Z - info: Using extension base
+2017-10-03T15:14:16.478Z - info: Using extension studio
+2017-10-03T15:14:16.547Z - info: Using extension html-to-xlsx
+2017-10-03T15:14:16.610Z - info: Using extension scripts
+2017-10-03T15:14:16.613Z - info: Using extension assets
+2017-10-03T15:14:16.622Z - info: Using extension scheduling
+2017-10-03T15:14:16.646Z - info: Using extension xlsx
+2017-10-03T15:14:16.771Z - info: Using extension sample-template
+2017-10-03T15:14:16.773Z - info: Using extension public-templates
+2017-10-03T15:14:16.780Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:14:16.909Z - info: Creating default express app.
+2017-10-03T15:14:16.962Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:14:16.974Z - info: Verifying license key free
+2017-10-03T15:14:16.978Z - info: Using free license
+2017-10-03T15:14:16.981Z - info: reporter initialized
+2017-10-03T15:14:23.975Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:14:23.977Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:14:24.598Z - error: Error when processing render request Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:14:24.601Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:15:28.968Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:15:28.970Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:15:28.974Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:15:28.981Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:15:29.011Z - info: Found 30 extensions
+2017-10-03T15:15:29.041Z - info: Using extension import-export
+2017-10-03T15:15:29.257Z - info: Using extension tags
+2017-10-03T15:15:29.263Z - info: Using extension templates
+2017-10-03T15:15:29.266Z - info: Using extension jsrender
+2017-10-03T15:15:29.268Z - info: Using extension cli
+2017-10-03T15:15:29.269Z - info: Using extension handlebars
+2017-10-03T15:15:29.271Z - info: Using extension debug
+2017-10-03T15:15:29.272Z - info: Using extension express
+2017-10-03T15:15:29.355Z - info: Using extension fop-pdf
+2017-10-03T15:15:29.361Z - info: Using extension phantom-pdf
+2017-10-03T15:15:29.401Z - info: Using extension fs-store
+2017-10-03T15:15:29.569Z - info: Using extension authorization
+2017-10-03T15:15:29.572Z - info: Using extension images
+2017-10-03T15:15:29.577Z - info: Using extension child-templates
+2017-10-03T15:15:29.580Z - info: Using extension browser-client
+2017-10-03T15:15:29.582Z - info: Using extension licensing
+2017-10-03T15:15:29.614Z - info: Using extension data
+2017-10-03T15:15:29.616Z - info: Using extension text
+2017-10-03T15:15:29.618Z - info: Using extension reports
+2017-10-03T15:15:29.621Z - info: Using extension resources
+2017-10-03T15:15:29.624Z - info: Using extension base
+2017-10-03T15:15:29.625Z - info: Using extension studio
+2017-10-03T15:15:29.710Z - info: Using extension html-to-xlsx
+2017-10-03T15:15:29.774Z - info: Using extension scripts
+2017-10-03T15:15:29.776Z - info: Using extension assets
+2017-10-03T15:15:29.783Z - info: Using extension scheduling
+2017-10-03T15:15:29.810Z - info: Using extension xlsx
+2017-10-03T15:15:29.937Z - info: Using extension sample-template
+2017-10-03T15:15:29.939Z - info: Using extension public-templates
+2017-10-03T15:15:29.946Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:15:30.176Z - info: Creating default express app.
+2017-10-03T15:15:30.224Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:15:30.229Z - info: Verifying license key free
+2017-10-03T15:15:30.230Z - info: Using free license
+2017-10-03T15:15:30.234Z - info: reporter initialized
+2017-10-03T15:15:35.065Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:15:35.067Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:15:35.676Z - error: Error when processing render request Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:15:35.679Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+ Error: Unable to find module ../../models/client
+Searched paths: 
+../../models/client
+../../models/client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:18:11.662Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:18:11.663Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:18:11.666Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:18:11.674Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:18:11.712Z - info: Found 30 extensions
+2017-10-03T15:18:11.744Z - info: Using extension import-export
+2017-10-03T15:18:11.934Z - info: Using extension tags
+2017-10-03T15:18:11.941Z - info: Using extension templates
+2017-10-03T15:18:11.944Z - info: Using extension jsrender
+2017-10-03T15:18:11.946Z - info: Using extension cli
+2017-10-03T15:18:11.948Z - info: Using extension handlebars
+2017-10-03T15:18:11.949Z - info: Using extension debug
+2017-10-03T15:18:11.950Z - info: Using extension express
+2017-10-03T15:18:12.058Z - info: Using extension fop-pdf
+2017-10-03T15:18:12.065Z - info: Using extension phantom-pdf
+2017-10-03T15:18:12.120Z - info: Using extension fs-store
+2017-10-03T15:18:12.283Z - info: Using extension authorization
+2017-10-03T15:18:12.286Z - info: Using extension images
+2017-10-03T15:18:12.290Z - info: Using extension child-templates
+2017-10-03T15:18:12.293Z - info: Using extension browser-client
+2017-10-03T15:18:12.295Z - info: Using extension licensing
+2017-10-03T15:18:12.332Z - info: Using extension data
+2017-10-03T15:18:12.334Z - info: Using extension text
+2017-10-03T15:18:12.335Z - info: Using extension reports
+2017-10-03T15:18:12.338Z - info: Using extension resources
+2017-10-03T15:18:12.340Z - info: Using extension base
+2017-10-03T15:18:12.341Z - info: Using extension studio
+2017-10-03T15:18:12.421Z - info: Using extension html-to-xlsx
+2017-10-03T15:18:12.486Z - info: Using extension scripts
+2017-10-03T15:18:12.488Z - info: Using extension assets
+2017-10-03T15:18:12.494Z - info: Using extension scheduling
+2017-10-03T15:18:12.517Z - info: Using extension xlsx
+2017-10-03T15:18:12.645Z - info: Using extension sample-template
+2017-10-03T15:18:12.648Z - info: Using extension public-templates
+2017-10-03T15:18:12.654Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:18:12.802Z - info: Creating default express app.
+2017-10-03T15:18:12.845Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:18:12.850Z - info: Verifying license key free
+2017-10-03T15:18:12.852Z - info: Using free license
+2017-10-03T15:18:12.854Z - info: reporter initialized
+2017-10-03T15:18:17.118Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:18:17.120Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:18:17.686Z - error: Error when processing render request Error during rendering report: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+ Error: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9) requestId=1
+2017-10-03T15:18:17.689Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+ Error: Unable to find module ../../../../models/client
+Searched paths: 
+../../../../models/client
+../../../../models/client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\models\client
+C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\models\client
+
+    at doRequire (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:25:13)
+    at _require (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:33:14)
+    at evalmachine.<anonymous>:5:12
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2017-10-03T15:19:19.678Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:19:19.679Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:19:19.682Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:19:19.689Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:19:19.716Z - info: Found 30 extensions
+2017-10-03T15:19:19.733Z - info: Using extension import-export
+2017-10-03T15:19:19.910Z - info: Using extension tags
+2017-10-03T15:19:19.917Z - info: Using extension templates
+2017-10-03T15:19:19.920Z - info: Using extension jsrender
+2017-10-03T15:19:19.921Z - info: Using extension cli
+2017-10-03T15:19:19.923Z - info: Using extension handlebars
+2017-10-03T15:19:19.925Z - info: Using extension debug
+2017-10-03T15:19:19.927Z - info: Using extension express
+2017-10-03T15:19:20.006Z - info: Using extension fop-pdf
+2017-10-03T15:19:20.012Z - info: Using extension phantom-pdf
+2017-10-03T15:19:20.061Z - info: Using extension fs-store
+2017-10-03T15:19:20.247Z - info: Using extension authorization
+2017-10-03T15:19:20.250Z - info: Using extension images
+2017-10-03T15:19:20.255Z - info: Using extension child-templates
+2017-10-03T15:19:20.258Z - info: Using extension browser-client
+2017-10-03T15:19:20.260Z - info: Using extension licensing
+2017-10-03T15:19:20.301Z - info: Using extension data
+2017-10-03T15:19:20.303Z - info: Using extension text
+2017-10-03T15:19:20.304Z - info: Using extension reports
+2017-10-03T15:19:20.308Z - info: Using extension resources
+2017-10-03T15:19:20.310Z - info: Using extension base
+2017-10-03T15:19:20.311Z - info: Using extension studio
+2017-10-03T15:19:20.391Z - info: Using extension html-to-xlsx
+2017-10-03T15:19:20.464Z - info: Using extension scripts
+2017-10-03T15:19:20.466Z - info: Using extension assets
+2017-10-03T15:19:20.472Z - info: Using extension scheduling
+2017-10-03T15:19:20.504Z - info: Using extension xlsx
+2017-10-03T15:19:20.639Z - info: Using extension sample-template
+2017-10-03T15:19:20.642Z - info: Using extension public-templates
+2017-10-03T15:19:20.649Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:19:20.819Z - info: Creating default express app.
+2017-10-03T15:19:20.866Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:19:20.872Z - info: Verifying license key free
+2017-10-03T15:19:20.873Z - info: Using free license
+2017-10-03T15:19:20.877Z - info: reporter initialized
+2017-10-03T15:19:29.727Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:19:29.730Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:19:30.310Z - error: Error when processing render request Error during rendering report: Client is not defined ReferenceError: Client is not defined
+    at beforeRender (evalmachine.<anonymous>:10:5)
+    at evalmachine.<anonymous>:20:111
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12) requestId=1
+2017-10-03T15:19:30.312Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Client is not defined ReferenceError: Client is not defined
+    at beforeRender (evalmachine.<anonymous>:10:5)
+    at evalmachine.<anonymous>:20:111
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+    at module.exports (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-scripts\lib\scriptEvalChild.js:123:6)
+    at process.<anonymous> (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\worker-processes.js:48:36)
+    at emitTwo (events.js:106:13)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:758:12)
+2017-10-03T15:20:48.939Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:20:48.941Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:20:48.945Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:20:48.950Z - info: Extensions location cache C:\Users\ernep\AppData\Local\Temp\jsreport-temp\extensions\locations.json contains older information, crawling
+2017-10-03T15:20:50.623Z - info: Found 30 extensions
+2017-10-03T15:20:50.658Z - info: Using extension import-export
+2017-10-03T15:20:50.879Z - info: Using extension tags
+2017-10-03T15:20:50.887Z - info: Using extension templates
+2017-10-03T15:20:50.892Z - info: Using extension jsrender
+2017-10-03T15:20:50.894Z - info: Using extension cli
+2017-10-03T15:20:50.895Z - info: Using extension handlebars
+2017-10-03T15:20:50.897Z - info: Using extension debug
+2017-10-03T15:20:50.899Z - info: Using extension express
+2017-10-03T15:20:50.998Z - info: Using extension fop-pdf
+2017-10-03T15:20:51.005Z - info: Using extension phantom-pdf
+2017-10-03T15:20:51.057Z - info: Using extension fs-store
+2017-10-03T15:20:51.284Z - info: Using extension authorization
+2017-10-03T15:20:51.287Z - info: Using extension images
+2017-10-03T15:20:51.292Z - info: Using extension child-templates
+2017-10-03T15:20:51.296Z - info: Using extension browser-client
+2017-10-03T15:20:51.298Z - info: Using extension licensing
+2017-10-03T15:20:51.341Z - info: Using extension data
+2017-10-03T15:20:51.343Z - info: Using extension text
+2017-10-03T15:20:51.344Z - info: Using extension reports
+2017-10-03T15:20:51.347Z - info: Using extension resources
+2017-10-03T15:20:51.349Z - info: Using extension base
+2017-10-03T15:20:51.350Z - info: Using extension studio
+2017-10-03T15:20:51.438Z - info: Using extension html-to-xlsx
+2017-10-03T15:20:51.520Z - info: Using extension scripts
+2017-10-03T15:20:51.523Z - info: Using extension assets
+2017-10-03T15:20:51.528Z - info: Using extension scheduling
+2017-10-03T15:20:51.561Z - info: Using extension xlsx
+2017-10-03T15:20:51.704Z - info: Using extension sample-template
+2017-10-03T15:20:51.706Z - info: Using extension public-templates
+2017-10-03T15:20:51.713Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:20:51.871Z - info: Creating default express app.
+2017-10-03T15:20:51.926Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:20:51.932Z - info: Verifying license key free
+2017-10-03T15:20:51.935Z - info: Using free license
+2017-10-03T15:20:51.944Z - info: reporter initialized
+2017-10-03T15:20:54.980Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:20:54.982Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:20:56.070Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:20:56.073Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:21:40.328Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:21:40.330Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:21:40.336Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:21:40.342Z - info: Extensions location cache C:\Users\ernep\AppData\Local\Temp\jsreport-temp\extensions\locations.json contains older information, crawling
+2017-10-03T15:21:41.777Z - info: Found 30 extensions
+2017-10-03T15:21:41.801Z - info: Using extension import-export
+2017-10-03T15:21:41.978Z - info: Using extension tags
+2017-10-03T15:21:41.984Z - info: Using extension templates
+2017-10-03T15:21:41.988Z - info: Using extension jsrender
+2017-10-03T15:21:41.990Z - info: Using extension cli
+2017-10-03T15:21:41.990Z - info: Using extension handlebars
+2017-10-03T15:21:41.992Z - info: Using extension debug
+2017-10-03T15:21:41.993Z - info: Using extension express
+2017-10-03T15:21:42.078Z - info: Using extension fop-pdf
+2017-10-03T15:21:42.085Z - info: Using extension phantom-pdf
+2017-10-03T15:21:42.133Z - info: Using extension fs-store
+2017-10-03T15:21:42.320Z - info: Using extension authorization
+2017-10-03T15:21:42.322Z - info: Using extension images
+2017-10-03T15:21:42.328Z - info: Using extension child-templates
+2017-10-03T15:21:42.331Z - info: Using extension browser-client
+2017-10-03T15:21:42.332Z - info: Using extension licensing
+2017-10-03T15:21:42.377Z - info: Using extension data
+2017-10-03T15:21:42.379Z - info: Using extension text
+2017-10-03T15:21:42.380Z - info: Using extension reports
+2017-10-03T15:21:42.383Z - info: Using extension resources
+2017-10-03T15:21:42.385Z - info: Using extension base
+2017-10-03T15:21:42.386Z - info: Using extension studio
+2017-10-03T15:21:42.463Z - info: Using extension html-to-xlsx
+2017-10-03T15:21:42.538Z - info: Using extension scripts
+2017-10-03T15:21:42.541Z - info: Using extension assets
+2017-10-03T15:21:42.547Z - info: Using extension scheduling
+2017-10-03T15:21:42.579Z - info: Using extension xlsx
+2017-10-03T15:21:42.718Z - info: Using extension sample-template
+2017-10-03T15:21:42.720Z - info: Using extension public-templates
+2017-10-03T15:21:42.726Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:21:42.887Z - info: Creating default express app.
+2017-10-03T15:21:42.941Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:21:42.947Z - info: Verifying license key free
+2017-10-03T15:21:42.948Z - info: Using free license
+2017-10-03T15:21:42.951Z - info: reporter initialized
+2017-10-03T15:21:46.796Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:21:46.798Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:21:47.923Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:21:47.925Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP' Error: Parse error on line 6780:
+...<body>    <div>{{.0}}</div></body>
+---------------------^
+Expecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'SEP'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:22:23.994Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:22:23.996Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:22:23.999Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:22:24.005Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:22:24.033Z - info: Found 30 extensions
+2017-10-03T15:22:24.060Z - info: Using extension import-export
+2017-10-03T15:22:24.261Z - info: Using extension tags
+2017-10-03T15:22:24.269Z - info: Using extension templates
+2017-10-03T15:22:24.273Z - info: Using extension jsrender
+2017-10-03T15:22:24.275Z - info: Using extension cli
+2017-10-03T15:22:24.276Z - info: Using extension handlebars
+2017-10-03T15:22:24.278Z - info: Using extension debug
+2017-10-03T15:22:24.279Z - info: Using extension express
+2017-10-03T15:22:24.370Z - info: Using extension fop-pdf
+2017-10-03T15:22:24.378Z - info: Using extension phantom-pdf
+2017-10-03T15:22:24.433Z - info: Using extension fs-store
+2017-10-03T15:22:24.610Z - info: Using extension authorization
+2017-10-03T15:22:24.613Z - info: Using extension images
+2017-10-03T15:22:24.619Z - info: Using extension child-templates
+2017-10-03T15:22:24.622Z - info: Using extension browser-client
+2017-10-03T15:22:24.624Z - info: Using extension licensing
+2017-10-03T15:22:24.664Z - info: Using extension data
+2017-10-03T15:22:24.669Z - info: Using extension text
+2017-10-03T15:22:24.671Z - info: Using extension reports
+2017-10-03T15:22:24.677Z - info: Using extension resources
+2017-10-03T15:22:24.679Z - info: Using extension base
+2017-10-03T15:22:24.680Z - info: Using extension studio
+2017-10-03T15:22:24.768Z - info: Using extension html-to-xlsx
+2017-10-03T15:22:24.839Z - info: Using extension scripts
+2017-10-03T15:22:24.843Z - info: Using extension assets
+2017-10-03T15:22:24.849Z - info: Using extension scheduling
+2017-10-03T15:22:24.882Z - info: Using extension xlsx
+2017-10-03T15:22:25.115Z - info: Using extension sample-template
+2017-10-03T15:22:25.118Z - info: Using extension public-templates
+2017-10-03T15:22:25.127Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:22:25.325Z - info: Creating default express app.
+2017-10-03T15:22:25.388Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:22:25.394Z - info: Verifying license key free
+2017-10-03T15:22:25.396Z - info: Using free license
+2017-10-03T15:22:25.399Z - info: reporter initialized
+2017-10-03T15:22:37.610Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:22:37.611Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:22:38.549Z - error: Error when processing render request Error during rendering report: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER' Error: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38) requestId=1
+2017-10-03T15:22:38.553Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER' Error: Parse error on line 6780:
+...    <div>{{clients.0}}</div></body>
+----------------------^
+Expecting 'ID', got 'NUMBER'
+    at Object.parseError (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Object.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at HandlebarsEnvironment.parse (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:43)
+    at compileInput (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:514:19)
+    at ret (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:523:18)
+    at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:25:14
+    at evalmachine.<anonymous>:1:41
+    at ContextifyScript.Script.runInContext (vm.js:35:29)
+    at ContextifyScript.Script.runInNewContext (vm.js:41:15)
+    at Object.runInNewContext (vm.js:93:38)
+2017-10-03T15:25:37.533Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:25:37.535Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:25:37.538Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:25:37.545Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:25:37.573Z - info: Found 30 extensions
+2017-10-03T15:25:37.595Z - info: Using extension import-export
+2017-10-03T15:25:37.800Z - info: Using extension tags
+2017-10-03T15:25:37.807Z - info: Using extension templates
+2017-10-03T15:25:37.811Z - info: Using extension jsrender
+2017-10-03T15:25:37.812Z - info: Using extension cli
+2017-10-03T15:25:37.814Z - info: Using extension handlebars
+2017-10-03T15:25:37.819Z - info: Using extension debug
+2017-10-03T15:25:37.820Z - info: Using extension express
+2017-10-03T15:25:37.937Z - info: Using extension fop-pdf
+2017-10-03T15:25:37.943Z - info: Using extension phantom-pdf
+2017-10-03T15:25:37.992Z - info: Using extension fs-store
+2017-10-03T15:25:38.177Z - info: Using extension authorization
+2017-10-03T15:25:38.179Z - info: Using extension images
+2017-10-03T15:25:38.186Z - info: Using extension child-templates
+2017-10-03T15:25:38.189Z - info: Using extension browser-client
+2017-10-03T15:25:38.191Z - info: Using extension licensing
+2017-10-03T15:25:38.237Z - info: Using extension data
+2017-10-03T15:25:38.238Z - info: Using extension text
+2017-10-03T15:25:38.239Z - info: Using extension reports
+2017-10-03T15:25:38.244Z - info: Using extension resources
+2017-10-03T15:25:38.247Z - info: Using extension base
+2017-10-03T15:25:38.249Z - info: Using extension studio
+2017-10-03T15:25:38.323Z - info: Using extension html-to-xlsx
+2017-10-03T15:25:38.398Z - info: Using extension scripts
+2017-10-03T15:25:38.400Z - info: Using extension assets
+2017-10-03T15:25:38.411Z - info: Using extension scheduling
+2017-10-03T15:25:38.442Z - info: Using extension xlsx
+2017-10-03T15:25:38.588Z - info: Using extension sample-template
+2017-10-03T15:25:38.591Z - info: Using extension public-templates
+2017-10-03T15:25:38.599Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:25:38.800Z - info: Creating default express app.
+2017-10-03T15:25:38.854Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:25:38.861Z - info: Verifying license key free
+2017-10-03T15:25:38.864Z - info: Using free license
+2017-10-03T15:25:38.889Z - info: reporter initialized
+2017-10-03T15:26:08.557Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:26:08.559Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:26:10.172Z - info: Rendering request 1 finished in 1615 ms requestId=1
+2017-10-03T15:27:10.356Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:27:10.358Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:27:10.361Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:27:10.368Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:27:10.404Z - info: Found 30 extensions
+2017-10-03T15:27:10.427Z - info: Using extension import-export
+2017-10-03T15:27:10.619Z - info: Using extension tags
+2017-10-03T15:27:10.628Z - info: Using extension templates
+2017-10-03T15:27:10.633Z - info: Using extension jsrender
+2017-10-03T15:27:10.634Z - info: Using extension cli
+2017-10-03T15:27:10.636Z - info: Using extension handlebars
+2017-10-03T15:27:10.641Z - info: Using extension debug
+2017-10-03T15:27:10.644Z - info: Using extension express
+2017-10-03T15:27:10.751Z - info: Using extension fop-pdf
+2017-10-03T15:27:10.758Z - info: Using extension phantom-pdf
+2017-10-03T15:27:10.806Z - info: Using extension fs-store
+2017-10-03T15:27:11.014Z - info: Using extension authorization
+2017-10-03T15:27:11.017Z - info: Using extension images
+2017-10-03T15:27:11.023Z - info: Using extension child-templates
+2017-10-03T15:27:11.027Z - info: Using extension browser-client
+2017-10-03T15:27:11.028Z - info: Using extension licensing
+2017-10-03T15:27:11.064Z - info: Using extension data
+2017-10-03T15:27:11.066Z - info: Using extension text
+2017-10-03T15:27:11.067Z - info: Using extension reports
+2017-10-03T15:27:11.073Z - info: Using extension resources
+2017-10-03T15:27:11.075Z - info: Using extension base
+2017-10-03T15:27:11.077Z - info: Using extension studio
+2017-10-03T15:27:11.163Z - info: Using extension html-to-xlsx
+2017-10-03T15:27:11.246Z - info: Using extension scripts
+2017-10-03T15:27:11.250Z - info: Using extension assets
+2017-10-03T15:27:11.262Z - info: Using extension scheduling
+2017-10-03T15:27:11.289Z - info: Using extension xlsx
+2017-10-03T15:27:11.428Z - info: Using extension sample-template
+2017-10-03T15:27:11.430Z - info: Using extension public-templates
+2017-10-03T15:27:11.438Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:27:11.623Z - info: Creating default express app.
+2017-10-03T15:27:11.677Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:27:11.683Z - info: Verifying license key free
+2017-10-03T15:27:11.684Z - info: Using free license
+2017-10-03T15:27:11.689Z - info: reporter initialized
+2017-10-03T15:27:21.719Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:27:21.726Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:27:23.347Z - info: Rendering request 1 finished in 1627 ms requestId=1
+2017-10-03T15:28:24.995Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:28:24.998Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:28:25.003Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:28:25.012Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:28:25.042Z - info: Found 30 extensions
+2017-10-03T15:28:25.065Z - info: Using extension import-export
+2017-10-03T15:28:25.245Z - info: Using extension tags
+2017-10-03T15:28:25.252Z - info: Using extension templates
+2017-10-03T15:28:25.258Z - info: Using extension jsrender
+2017-10-03T15:28:25.260Z - info: Using extension cli
+2017-10-03T15:28:25.261Z - info: Using extension handlebars
+2017-10-03T15:28:25.264Z - info: Using extension debug
+2017-10-03T15:28:25.266Z - info: Using extension express
+2017-10-03T15:28:25.349Z - info: Using extension fop-pdf
+2017-10-03T15:28:25.355Z - info: Using extension phantom-pdf
+2017-10-03T15:28:25.405Z - info: Using extension fs-store
+2017-10-03T15:28:25.619Z - info: Using extension authorization
+2017-10-03T15:28:25.622Z - info: Using extension images
+2017-10-03T15:28:25.629Z - info: Using extension child-templates
+2017-10-03T15:28:25.633Z - info: Using extension browser-client
+2017-10-03T15:28:25.635Z - info: Using extension licensing
+2017-10-03T15:28:25.681Z - info: Using extension data
+2017-10-03T15:28:25.683Z - info: Using extension text
+2017-10-03T15:28:25.684Z - info: Using extension reports
+2017-10-03T15:28:25.689Z - info: Using extension resources
+2017-10-03T15:28:25.694Z - info: Using extension base
+2017-10-03T15:28:25.695Z - info: Using extension studio
+2017-10-03T15:28:25.787Z - info: Using extension html-to-xlsx
+2017-10-03T15:28:25.857Z - info: Using extension scripts
+2017-10-03T15:28:25.859Z - info: Using extension assets
+2017-10-03T15:28:25.864Z - info: Using extension scheduling
+2017-10-03T15:28:25.891Z - info: Using extension xlsx
+2017-10-03T15:28:26.042Z - info: Using extension sample-template
+2017-10-03T15:28:26.045Z - info: Using extension public-templates
+2017-10-03T15:28:26.053Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:28:26.221Z - info: Creating default express app.
+2017-10-03T15:28:26.276Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:28:26.283Z - info: Verifying license key free
+2017-10-03T15:28:26.284Z - info: Using free license
+2017-10-03T15:28:26.287Z - info: reporter initialized
+2017-10-03T15:28:30.113Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:28:30.115Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:28:31.611Z - info: Rendering request 1 finished in 1498 ms requestId=1
+2017-10-03T15:29:23.275Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:29:23.277Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:29:23.283Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:29:23.294Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:29:23.361Z - info: Found 30 extensions
+2017-10-03T15:29:23.394Z - info: Using extension import-export
+2017-10-03T15:29:23.644Z - info: Using extension tags
+2017-10-03T15:29:23.658Z - info: Using extension templates
+2017-10-03T15:29:23.662Z - info: Using extension jsrender
+2017-10-03T15:29:23.664Z - info: Using extension cli
+2017-10-03T15:29:23.666Z - info: Using extension handlebars
+2017-10-03T15:29:23.672Z - info: Using extension debug
+2017-10-03T15:29:23.673Z - info: Using extension express
+2017-10-03T15:29:23.796Z - info: Using extension fop-pdf
+2017-10-03T15:29:23.806Z - info: Using extension phantom-pdf
+2017-10-03T15:29:23.864Z - info: Using extension fs-store
+2017-10-03T15:29:24.095Z - info: Using extension authorization
+2017-10-03T15:29:24.098Z - info: Using extension images
+2017-10-03T15:29:24.107Z - info: Using extension child-templates
+2017-10-03T15:29:24.110Z - info: Using extension browser-client
+2017-10-03T15:29:24.112Z - info: Using extension licensing
+2017-10-03T15:29:24.155Z - info: Using extension data
+2017-10-03T15:29:24.157Z - info: Using extension text
+2017-10-03T15:29:24.158Z - info: Using extension reports
+2017-10-03T15:29:24.162Z - info: Using extension resources
+2017-10-03T15:29:24.168Z - info: Using extension base
+2017-10-03T15:29:24.170Z - info: Using extension studio
+2017-10-03T15:29:24.248Z - info: Using extension html-to-xlsx
+2017-10-03T15:29:24.315Z - info: Using extension scripts
+2017-10-03T15:29:24.318Z - info: Using extension assets
+2017-10-03T15:29:24.325Z - info: Using extension scheduling
+2017-10-03T15:29:24.357Z - info: Using extension xlsx
+2017-10-03T15:29:24.480Z - info: Using extension sample-template
+2017-10-03T15:29:24.482Z - info: Using extension public-templates
+2017-10-03T15:29:24.489Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:29:24.652Z - info: Creating default express app.
+2017-10-03T15:29:24.702Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:29:24.710Z - info: Verifying license key free
+2017-10-03T15:29:24.712Z - info: Using free license
+2017-10-03T15:29:24.717Z - info: reporter initialized
+2017-10-03T15:29:33.793Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:29:33.795Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:29:35.329Z - info: Rendering request 1 finished in 1536 ms requestId=1
+2017-10-03T15:30:24.410Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:30:24.420Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:30:24.425Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:30:24.433Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:30:24.466Z - info: Found 30 extensions
+2017-10-03T15:30:24.494Z - info: Using extension import-export
+2017-10-03T15:30:24.701Z - info: Using extension tags
+2017-10-03T15:30:24.708Z - info: Using extension templates
+2017-10-03T15:30:24.712Z - info: Using extension jsrender
+2017-10-03T15:30:24.713Z - info: Using extension cli
+2017-10-03T15:30:24.715Z - info: Using extension handlebars
+2017-10-03T15:30:24.717Z - info: Using extension debug
+2017-10-03T15:30:24.718Z - info: Using extension express
+2017-10-03T15:30:24.816Z - info: Using extension fop-pdf
+2017-10-03T15:30:24.823Z - info: Using extension phantom-pdf
+2017-10-03T15:30:24.877Z - info: Using extension fs-store
+2017-10-03T15:30:25.063Z - info: Using extension authorization
+2017-10-03T15:30:25.065Z - info: Using extension images
+2017-10-03T15:30:25.070Z - info: Using extension child-templates
+2017-10-03T15:30:25.075Z - info: Using extension browser-client
+2017-10-03T15:30:25.077Z - info: Using extension licensing
+2017-10-03T15:30:25.117Z - info: Using extension data
+2017-10-03T15:30:25.120Z - info: Using extension text
+2017-10-03T15:30:25.121Z - info: Using extension reports
+2017-10-03T15:30:25.126Z - info: Using extension resources
+2017-10-03T15:30:25.131Z - info: Using extension base
+2017-10-03T15:30:25.133Z - info: Using extension studio
+2017-10-03T15:30:25.213Z - info: Using extension html-to-xlsx
+2017-10-03T15:30:25.288Z - info: Using extension scripts
+2017-10-03T15:30:25.290Z - info: Using extension assets
+2017-10-03T15:30:25.302Z - info: Using extension scheduling
+2017-10-03T15:30:25.336Z - info: Using extension xlsx
+2017-10-03T15:30:25.478Z - info: Using extension sample-template
+2017-10-03T15:30:25.480Z - info: Using extension public-templates
+2017-10-03T15:30:25.488Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:30:25.675Z - info: Creating default express app.
+2017-10-03T15:30:25.728Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:30:25.735Z - info: Verifying license key free
+2017-10-03T15:30:25.737Z - info: Using free license
+2017-10-03T15:30:25.741Z - info: reporter initialized
+2017-10-03T15:30:30.298Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:30:30.301Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:30:31.938Z - info: Rendering request 1 finished in 1641 ms requestId=1
+2017-10-03T15:31:45.997Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:31:45.999Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:31:46.002Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:31:46.009Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:31:46.039Z - info: Found 30 extensions
+2017-10-03T15:31:46.065Z - info: Using extension import-export
+2017-10-03T15:31:46.261Z - info: Using extension tags
+2017-10-03T15:31:46.269Z - info: Using extension templates
+2017-10-03T15:31:46.273Z - info: Using extension jsrender
+2017-10-03T15:31:46.275Z - info: Using extension cli
+2017-10-03T15:31:46.277Z - info: Using extension handlebars
+2017-10-03T15:31:46.282Z - info: Using extension debug
+2017-10-03T15:31:46.284Z - info: Using extension express
+2017-10-03T15:31:46.381Z - info: Using extension fop-pdf
+2017-10-03T15:31:46.389Z - info: Using extension phantom-pdf
+2017-10-03T15:31:46.451Z - info: Using extension fs-store
+2017-10-03T15:31:46.637Z - info: Using extension authorization
+2017-10-03T15:31:46.640Z - info: Using extension images
+2017-10-03T15:31:46.645Z - info: Using extension child-templates
+2017-10-03T15:31:46.650Z - info: Using extension browser-client
+2017-10-03T15:31:46.652Z - info: Using extension licensing
+2017-10-03T15:31:46.703Z - info: Using extension data
+2017-10-03T15:31:46.707Z - info: Using extension text
+2017-10-03T15:31:46.708Z - info: Using extension reports
+2017-10-03T15:31:46.716Z - info: Using extension resources
+2017-10-03T15:31:46.719Z - info: Using extension base
+2017-10-03T15:31:46.721Z - info: Using extension studio
+2017-10-03T15:31:46.816Z - info: Using extension html-to-xlsx
+2017-10-03T15:31:46.896Z - info: Using extension scripts
+2017-10-03T15:31:46.899Z - info: Using extension assets
+2017-10-03T15:31:46.904Z - info: Using extension scheduling
+2017-10-03T15:31:46.930Z - info: Using extension xlsx
+2017-10-03T15:31:47.076Z - info: Using extension sample-template
+2017-10-03T15:31:47.079Z - info: Using extension public-templates
+2017-10-03T15:31:47.087Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:31:47.459Z - info: Creating default express app.
+2017-10-03T15:31:47.510Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:31:47.517Z - info: Verifying license key free
+2017-10-03T15:31:47.524Z - info: Using free license
+2017-10-03T15:31:47.526Z - info: reporter initialized
+2017-10-03T15:31:51.613Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:31:51.615Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:31:53.051Z - info: Rendering request 1 finished in 1439 ms requestId=1
+2017-10-03T15:33:27.734Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:33:27.736Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:33:27.740Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:33:27.749Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:33:27.773Z - info: Found 30 extensions
+2017-10-03T15:33:27.797Z - info: Using extension import-export
+2017-10-03T15:33:28.010Z - info: Using extension tags
+2017-10-03T15:33:28.019Z - info: Using extension templates
+2017-10-03T15:33:28.024Z - info: Using extension jsrender
+2017-10-03T15:33:28.027Z - info: Using extension cli
+2017-10-03T15:33:28.030Z - info: Using extension handlebars
+2017-10-03T15:33:28.034Z - info: Using extension debug
+2017-10-03T15:33:28.036Z - info: Using extension express
+2017-10-03T15:33:28.144Z - info: Using extension fop-pdf
+2017-10-03T15:33:28.151Z - info: Using extension phantom-pdf
+2017-10-03T15:33:28.215Z - info: Using extension fs-store
+2017-10-03T15:33:28.407Z - info: Using extension authorization
+2017-10-03T15:33:28.409Z - info: Using extension images
+2017-10-03T15:33:28.414Z - info: Using extension child-templates
+2017-10-03T15:33:28.417Z - info: Using extension browser-client
+2017-10-03T15:33:28.419Z - info: Using extension licensing
+2017-10-03T15:33:28.464Z - info: Using extension data
+2017-10-03T15:33:28.466Z - info: Using extension text
+2017-10-03T15:33:28.467Z - info: Using extension reports
+2017-10-03T15:33:28.470Z - info: Using extension resources
+2017-10-03T15:33:28.472Z - info: Using extension base
+2017-10-03T15:33:28.473Z - info: Using extension studio
+2017-10-03T15:33:28.547Z - info: Using extension html-to-xlsx
+2017-10-03T15:33:28.618Z - info: Using extension scripts
+2017-10-03T15:33:28.621Z - info: Using extension assets
+2017-10-03T15:33:28.626Z - info: Using extension scheduling
+2017-10-03T15:33:28.657Z - info: Using extension xlsx
+2017-10-03T15:33:28.815Z - info: Using extension sample-template
+2017-10-03T15:33:28.817Z - info: Using extension public-templates
+2017-10-03T15:33:28.824Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:33:28.993Z - info: Creating default express app.
+2017-10-03T15:33:29.040Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:33:29.047Z - info: Verifying license key free
+2017-10-03T15:33:29.052Z - info: Using free license
+2017-10-03T15:33:29.086Z - info: reporter initialized
+2017-10-03T15:33:34.200Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:33:34.206Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:33:35.820Z - info: Rendering request 1 finished in 1621 ms requestId=1
+2017-10-03T15:37:24.768Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:37:24.774Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:37:24.777Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:37:24.786Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:37:24.810Z - info: Found 30 extensions
+2017-10-03T15:37:24.832Z - info: Using extension import-export
+2017-10-03T15:37:25.036Z - info: Using extension tags
+2017-10-03T15:37:25.045Z - info: Using extension templates
+2017-10-03T15:37:25.048Z - info: Using extension jsrender
+2017-10-03T15:37:25.053Z - info: Using extension cli
+2017-10-03T15:37:25.054Z - info: Using extension handlebars
+2017-10-03T15:37:25.057Z - info: Using extension debug
+2017-10-03T15:37:25.058Z - info: Using extension express
+2017-10-03T15:37:25.161Z - info: Using extension fop-pdf
+2017-10-03T15:37:25.167Z - info: Using extension phantom-pdf
+2017-10-03T15:37:25.215Z - info: Using extension fs-store
+2017-10-03T15:37:25.417Z - info: Using extension authorization
+2017-10-03T15:37:25.419Z - info: Using extension images
+2017-10-03T15:37:25.425Z - info: Using extension child-templates
+2017-10-03T15:37:25.430Z - info: Using extension browser-client
+2017-10-03T15:37:25.432Z - info: Using extension licensing
+2017-10-03T15:37:25.477Z - info: Using extension data
+2017-10-03T15:37:25.480Z - info: Using extension text
+2017-10-03T15:37:25.484Z - info: Using extension reports
+2017-10-03T15:37:25.488Z - info: Using extension resources
+2017-10-03T15:37:25.490Z - info: Using extension base
+2017-10-03T15:37:25.492Z - info: Using extension studio
+2017-10-03T15:37:25.577Z - info: Using extension html-to-xlsx
+2017-10-03T15:37:25.654Z - info: Using extension scripts
+2017-10-03T15:37:25.661Z - info: Using extension assets
+2017-10-03T15:37:25.667Z - info: Using extension scheduling
+2017-10-03T15:37:25.701Z - info: Using extension xlsx
+2017-10-03T15:37:25.842Z - info: Using extension sample-template
+2017-10-03T15:37:25.845Z - info: Using extension public-templates
+2017-10-03T15:37:25.851Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:37:26.107Z - info: Creating default express app.
+2017-10-03T15:37:26.157Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:37:26.162Z - info: Verifying license key free
+2017-10-03T15:37:26.164Z - info: Using free license
+2017-10-03T15:37:26.167Z - info: reporter initialized
+2017-10-03T15:37:35.098Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:37:35.101Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:37:36.812Z - info: Rendering request 1 finished in 1714 ms requestId=1
+2017-10-03T15:39:26.856Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:39:26.858Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:39:26.861Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:39:26.867Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:39:26.888Z - info: Found 30 extensions
+2017-10-03T15:39:26.908Z - info: Using extension import-export
+2017-10-03T15:39:27.084Z - info: Using extension tags
+2017-10-03T15:39:27.091Z - info: Using extension templates
+2017-10-03T15:39:27.095Z - info: Using extension jsrender
+2017-10-03T15:39:27.096Z - info: Using extension cli
+2017-10-03T15:39:27.097Z - info: Using extension handlebars
+2017-10-03T15:39:27.099Z - info: Using extension debug
+2017-10-03T15:39:27.101Z - info: Using extension express
+2017-10-03T15:39:27.177Z - info: Using extension fop-pdf
+2017-10-03T15:39:27.186Z - info: Using extension phantom-pdf
+2017-10-03T15:39:27.233Z - info: Using extension fs-store
+2017-10-03T15:39:27.434Z - info: Using extension authorization
+2017-10-03T15:39:27.437Z - info: Using extension images
+2017-10-03T15:39:27.443Z - info: Using extension child-templates
+2017-10-03T15:39:27.447Z - info: Using extension browser-client
+2017-10-03T15:39:27.449Z - info: Using extension licensing
+2017-10-03T15:39:27.492Z - info: Using extension data
+2017-10-03T15:39:27.494Z - info: Using extension text
+2017-10-03T15:39:27.495Z - info: Using extension reports
+2017-10-03T15:39:27.501Z - info: Using extension resources
+2017-10-03T15:39:27.503Z - info: Using extension base
+2017-10-03T15:39:27.504Z - info: Using extension studio
+2017-10-03T15:39:27.590Z - info: Using extension html-to-xlsx
+2017-10-03T15:39:27.665Z - info: Using extension scripts
+2017-10-03T15:39:27.667Z - info: Using extension assets
+2017-10-03T15:39:27.673Z - info: Using extension scheduling
+2017-10-03T15:39:27.703Z - info: Using extension xlsx
+2017-10-03T15:39:27.850Z - info: Using extension sample-template
+2017-10-03T15:39:27.853Z - info: Using extension public-templates
+2017-10-03T15:39:27.861Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:39:28.266Z - info: Creating default express app.
+2017-10-03T15:39:28.328Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:39:28.336Z - info: Verifying license key free
+2017-10-03T15:39:28.337Z - info: Using free license
+2017-10-03T15:39:28.340Z - info: reporter initialized
+2017-10-03T15:39:35.449Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:39:35.452Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:39:37.029Z - info: Rendering request 1 finished in 1581 ms requestId=1
+2017-10-03T15:40:02.432Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:40:02.434Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:40:02.437Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:40:02.444Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:40:02.470Z - info: Found 30 extensions
+2017-10-03T15:40:02.493Z - info: Using extension import-export
+2017-10-03T15:40:02.651Z - info: Using extension tags
+2017-10-03T15:40:02.656Z - info: Using extension templates
+2017-10-03T15:40:02.660Z - info: Using extension jsrender
+2017-10-03T15:40:02.661Z - info: Using extension cli
+2017-10-03T15:40:02.663Z - info: Using extension handlebars
+2017-10-03T15:40:02.665Z - info: Using extension debug
+2017-10-03T15:40:02.666Z - info: Using extension express
+2017-10-03T15:40:02.742Z - info: Using extension fop-pdf
+2017-10-03T15:40:02.750Z - info: Using extension phantom-pdf
+2017-10-03T15:40:02.794Z - info: Using extension fs-store
+2017-10-03T15:40:02.985Z - info: Using extension authorization
+2017-10-03T15:40:02.988Z - info: Using extension images
+2017-10-03T15:40:02.993Z - info: Using extension child-templates
+2017-10-03T15:40:02.997Z - info: Using extension browser-client
+2017-10-03T15:40:02.999Z - info: Using extension licensing
+2017-10-03T15:40:03.039Z - info: Using extension data
+2017-10-03T15:40:03.041Z - info: Using extension text
+2017-10-03T15:40:03.042Z - info: Using extension reports
+2017-10-03T15:40:03.046Z - info: Using extension resources
+2017-10-03T15:40:03.048Z - info: Using extension base
+2017-10-03T15:40:03.050Z - info: Using extension studio
+2017-10-03T15:40:03.129Z - info: Using extension html-to-xlsx
+2017-10-03T15:40:03.198Z - info: Using extension scripts
+2017-10-03T15:40:03.200Z - info: Using extension assets
+2017-10-03T15:40:03.206Z - info: Using extension scheduling
+2017-10-03T15:40:03.230Z - info: Using extension xlsx
+2017-10-03T15:40:03.363Z - info: Using extension sample-template
+2017-10-03T15:40:03.365Z - info: Using extension public-templates
+2017-10-03T15:40:03.371Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:40:03.624Z - info: Creating default express app.
+2017-10-03T15:40:03.668Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:40:03.674Z - info: Verifying license key free
+2017-10-03T15:40:03.679Z - info: Using free license
+2017-10-03T15:40:03.710Z - info: reporter initialized
+2017-10-03T15:40:07.397Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:40:07.400Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:40:09.111Z - info: Rendering request 1 finished in 1715 ms requestId=1
+2017-10-03T15:40:54.347Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:40:54.352Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:40:54.356Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:40:54.365Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:40:54.389Z - info: Found 30 extensions
+2017-10-03T15:40:54.414Z - info: Using extension import-export
+2017-10-03T15:40:54.613Z - info: Using extension tags
+2017-10-03T15:40:54.620Z - info: Using extension templates
+2017-10-03T15:40:54.623Z - info: Using extension jsrender
+2017-10-03T15:40:54.625Z - info: Using extension cli
+2017-10-03T15:40:54.626Z - info: Using extension handlebars
+2017-10-03T15:40:54.628Z - info: Using extension debug
+2017-10-03T15:40:54.630Z - info: Using extension express
+2017-10-03T15:40:54.734Z - info: Using extension fop-pdf
+2017-10-03T15:40:54.745Z - info: Using extension phantom-pdf
+2017-10-03T15:40:54.810Z - info: Using extension fs-store
+2017-10-03T15:40:54.997Z - info: Using extension authorization
+2017-10-03T15:40:55.005Z - info: Using extension images
+2017-10-03T15:40:55.012Z - info: Using extension child-templates
+2017-10-03T15:40:55.016Z - info: Using extension browser-client
+2017-10-03T15:40:55.018Z - info: Using extension licensing
+2017-10-03T15:40:55.070Z - info: Using extension data
+2017-10-03T15:40:55.072Z - info: Using extension text
+2017-10-03T15:40:55.073Z - info: Using extension reports
+2017-10-03T15:40:55.077Z - info: Using extension resources
+2017-10-03T15:40:55.079Z - info: Using extension base
+2017-10-03T15:40:55.080Z - info: Using extension studio
+2017-10-03T15:40:55.158Z - info: Using extension html-to-xlsx
+2017-10-03T15:40:55.243Z - info: Using extension scripts
+2017-10-03T15:40:55.246Z - info: Using extension assets
+2017-10-03T15:40:55.252Z - info: Using extension scheduling
+2017-10-03T15:40:55.290Z - info: Using extension xlsx
+2017-10-03T15:40:55.438Z - info: Using extension sample-template
+2017-10-03T15:40:55.441Z - info: Using extension public-templates
+2017-10-03T15:40:55.448Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:40:55.636Z - info: Creating default express app.
+2017-10-03T15:40:55.689Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:40:55.694Z - info: Verifying license key free
+2017-10-03T15:40:55.695Z - info: Using free license
+2017-10-03T15:40:55.699Z - info: reporter initialized
+2017-10-03T15:41:08.432Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:41:08.436Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:41:10.111Z - info: Rendering request 1 finished in 1680 ms requestId=1
+2017-10-03T15:42:02.156Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:42:02.158Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:42:02.161Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:42:02.167Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:42:02.195Z - info: Found 30 extensions
+2017-10-03T15:42:02.221Z - info: Using extension import-export
+2017-10-03T15:42:02.404Z - info: Using extension tags
+2017-10-03T15:42:02.410Z - info: Using extension templates
+2017-10-03T15:42:02.414Z - info: Using extension jsrender
+2017-10-03T15:42:02.415Z - info: Using extension cli
+2017-10-03T15:42:02.417Z - info: Using extension handlebars
+2017-10-03T15:42:02.419Z - info: Using extension debug
+2017-10-03T15:42:02.420Z - info: Using extension express
+2017-10-03T15:42:02.513Z - info: Using extension fop-pdf
+2017-10-03T15:42:02.522Z - info: Using extension phantom-pdf
+2017-10-03T15:42:02.584Z - info: Using extension fs-store
+2017-10-03T15:42:02.772Z - info: Using extension authorization
+2017-10-03T15:42:02.774Z - info: Using extension images
+2017-10-03T15:42:02.780Z - info: Using extension child-templates
+2017-10-03T15:42:02.783Z - info: Using extension browser-client
+2017-10-03T15:42:02.785Z - info: Using extension licensing
+2017-10-03T15:42:02.829Z - info: Using extension data
+2017-10-03T15:42:02.833Z - info: Using extension text
+2017-10-03T15:42:02.834Z - info: Using extension reports
+2017-10-03T15:42:02.838Z - info: Using extension resources
+2017-10-03T15:42:02.841Z - info: Using extension base
+2017-10-03T15:42:02.842Z - info: Using extension studio
+2017-10-03T15:42:02.926Z - info: Using extension html-to-xlsx
+2017-10-03T15:42:03.021Z - info: Using extension scripts
+2017-10-03T15:42:03.030Z - info: Using extension assets
+2017-10-03T15:42:03.036Z - info: Using extension scheduling
+2017-10-03T15:42:03.069Z - info: Using extension xlsx
+2017-10-03T15:42:03.287Z - info: Using extension sample-template
+2017-10-03T15:42:03.294Z - info: Using extension public-templates
+2017-10-03T15:42:03.308Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:42:03.571Z - info: Creating default express app.
+2017-10-03T15:42:03.657Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:42:03.668Z - info: Verifying license key free
+2017-10-03T15:42:03.690Z - info: Using free license
+2017-10-03T15:42:03.694Z - info: reporter initialized
+2017-10-03T15:42:09.430Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:42:09.433Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:42:10.981Z - info: Rendering request 1 finished in 1552 ms requestId=1
+2017-10-03T15:48:55.927Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:48:55.928Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:48:55.931Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:48:55.937Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:48:55.960Z - info: Found 30 extensions
+2017-10-03T15:48:55.985Z - info: Using extension import-export
+2017-10-03T15:48:56.170Z - info: Using extension tags
+2017-10-03T15:48:56.178Z - info: Using extension templates
+2017-10-03T15:48:56.182Z - info: Using extension jsrender
+2017-10-03T15:48:56.183Z - info: Using extension cli
+2017-10-03T15:48:56.185Z - info: Using extension handlebars
+2017-10-03T15:48:56.187Z - info: Using extension debug
+2017-10-03T15:48:56.189Z - info: Using extension express
+2017-10-03T15:48:56.284Z - info: Using extension fop-pdf
+2017-10-03T15:48:56.295Z - info: Using extension phantom-pdf
+2017-10-03T15:48:56.360Z - info: Using extension fs-store
+2017-10-03T15:48:56.568Z - info: Using extension authorization
+2017-10-03T15:48:56.570Z - info: Using extension images
+2017-10-03T15:48:56.573Z - info: Using extension child-templates
+2017-10-03T15:48:56.577Z - info: Using extension browser-client
+2017-10-03T15:48:56.580Z - info: Using extension licensing
+2017-10-03T15:48:56.623Z - info: Using extension data
+2017-10-03T15:48:56.626Z - info: Using extension text
+2017-10-03T15:48:56.630Z - info: Using extension reports
+2017-10-03T15:48:56.635Z - info: Using extension resources
+2017-10-03T15:48:56.637Z - info: Using extension base
+2017-10-03T15:48:56.638Z - info: Using extension studio
+2017-10-03T15:48:56.722Z - info: Using extension html-to-xlsx
+2017-10-03T15:48:56.790Z - info: Using extension scripts
+2017-10-03T15:48:56.792Z - info: Using extension assets
+2017-10-03T15:48:56.800Z - info: Using extension scheduling
+2017-10-03T15:48:56.831Z - info: Using extension xlsx
+2017-10-03T15:48:56.965Z - info: Using extension sample-template
+2017-10-03T15:48:56.971Z - info: Using extension public-templates
+2017-10-03T15:48:56.980Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:48:57.138Z - info: Creating default express app.
+2017-10-03T15:48:57.190Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:48:57.198Z - info: Verifying license key free
+2017-10-03T15:48:57.200Z - info: Using free license
+2017-10-03T15:48:57.207Z - info: reporter initialized
+2017-10-03T15:49:05.552Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:49:05.555Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:49:07.248Z - info: Rendering request 1 finished in 1697 ms requestId=1
+2017-10-03T15:50:55.397Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-03T15:50:55.399Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-03T15:50:55.403Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-03T15:50:55.411Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-03T15:50:55.444Z - info: Found 30 extensions
+2017-10-03T15:50:55.470Z - info: Using extension import-export
+2017-10-03T15:50:55.665Z - info: Using extension tags
+2017-10-03T15:50:55.671Z - info: Using extension templates
+2017-10-03T15:50:55.676Z - info: Using extension jsrender
+2017-10-03T15:50:55.683Z - info: Using extension cli
+2017-10-03T15:50:55.684Z - info: Using extension handlebars
+2017-10-03T15:50:55.687Z - info: Using extension debug
+2017-10-03T15:50:55.688Z - info: Using extension express
+2017-10-03T15:50:55.795Z - info: Using extension fop-pdf
+2017-10-03T15:50:55.804Z - info: Using extension phantom-pdf
+2017-10-03T15:50:55.870Z - info: Using extension fs-store
+2017-10-03T15:50:56.054Z - info: Using extension authorization
+2017-10-03T15:50:56.056Z - info: Using extension images
+2017-10-03T15:50:56.063Z - info: Using extension child-templates
+2017-10-03T15:50:56.067Z - info: Using extension browser-client
+2017-10-03T15:50:56.069Z - info: Using extension licensing
+2017-10-03T15:50:56.119Z - info: Using extension data
+2017-10-03T15:50:56.123Z - info: Using extension text
+2017-10-03T15:50:56.133Z - info: Using extension reports
+2017-10-03T15:50:56.138Z - info: Using extension resources
+2017-10-03T15:50:56.140Z - info: Using extension base
+2017-10-03T15:50:56.140Z - info: Using extension studio
+2017-10-03T15:50:56.224Z - info: Using extension html-to-xlsx
+2017-10-03T15:50:56.302Z - info: Using extension scripts
+2017-10-03T15:50:56.304Z - info: Using extension assets
+2017-10-03T15:50:56.312Z - info: Using extension scheduling
+2017-10-03T15:50:56.342Z - info: Using extension xlsx
+2017-10-03T15:50:56.493Z - info: Using extension sample-template
+2017-10-03T15:50:56.495Z - info: Using extension public-templates
+2017-10-03T15:50:56.501Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-03T15:50:56.702Z - info: Creating default express app.
+2017-10-03T15:50:56.756Z - info: jsreport server successfully started on http port: 5488
+2017-10-03T15:50:56.763Z - info: Verifying license key free
+2017-10-03T15:50:56.764Z - info: Using free license
+2017-10-03T15:50:56.766Z - info: reporter initialized
+2017-10-03T15:51:00.352Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-03T15:51:00.355Z - info: Rendering template {shortid:rkJTnxcaw, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-03T15:51:01.947Z - info: Rendering request 1 finished in 1596 ms requestId=1

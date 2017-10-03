@@ -42,10 +42,10 @@
   "tasks": {
     "strategy": "dedicated-process",
     "timeout": 10000,
-    "allowedModules": ["moment"]
+    "allowedModules": ["moment", "mongoose"]
   },
   "scripts": {
-    "allowedModules": [],
+    "allowedModules":"*",
     "timeout": 60000
   },
   "sample-template": {
