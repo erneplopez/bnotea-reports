@@ -13,3 +13,12 @@ function getTotalAmount(masterStubs){
     })
     return totalAmount;
 }
+
+function getName(name, funding){
+    if(funding=="funded"){
+        return name;
+    }
+    else if(funding=="unfunded"){
+        return name+"*";
+    }
+}

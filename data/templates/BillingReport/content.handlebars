@@ -26,7 +26,10 @@ incoming API request.
           {{/each}}
         <h3>{{document.0.client.name}}</h3>
         <h2>Medicaid Number: {{document.0.client.medicaidId}}</h2>
-        <h2>Approval Number:{{document.0.client.approvalNumber}}</h2>
+        <h2>Approvals</h2>
+        {{#each document.0.client.approvals}}
+            <h3>{{number}} - {{getEndDate endDate}}</h3>
+        {{/each}}
         <h2>Diagnosis: {{document.0.client.diagnosis}}</h2>
     </div>
     {{#each document}}

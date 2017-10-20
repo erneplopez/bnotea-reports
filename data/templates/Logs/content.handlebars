@@ -13,51 +13,47 @@ incoming API request.
 <head>
  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <style>
-    {#asset Clients styles.css @encoding=utf8}
+    {#asset Logs styles.css @encoding=utf8}
 </style>
 </head>
 <body>
+    <h1 class="text-center">LOGS REPORT</h1>
+    <h3 class="text-center">{{getDate logs}}</h3>
     <table class="table">
         <tbody>
         <tr>
             <th>
-                Name
+                Number
             </th>
             <th>
-                Medicaid Number
+                Code
             </th>
             <th>
-                Guardian
+                Info
             </th>
             <th>
-                Phone
+                User
             </th>
-            <th>
-                Assistant
-            </th>
-            <th>
-                Analyst
+             <th>
+                TimeStamp
             </th>
         </tr>
-        {{#each clients}}
+        {{#each logs as |logs index|}}
         <tr>
-            <td>
-                {{getName firstName lastName}}
+             <td>
+                {{index}}
             </td>
             <td>
-                {{medicaidNumber}}
+                {{code}}
             </td>
             <td>
-                {{guardian}}
+                {{info}}
             </td>
             <td>
-                {{phone}}
+                {{user}}
             </td>
             <td>
-                {{getName analyst.firstName analyst.lastName}}
-            </td>
-            <td>
-                {{getName assistant.firstName assistant.lastName}}
+                {{timeStamp}}
             </td>
         </tr>
         {{/each}}

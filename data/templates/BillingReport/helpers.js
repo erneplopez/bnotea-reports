@@ -33,7 +33,9 @@ function grandTotal(reports){
     })
     return Math.round(grandTotal*100)/100;
 }
-
+function getEndDate(endDate){
+    return moment(endDate).format("MM/DD/YYYY");
+}
 function completed(invoiceTotals){
     if(invoiceTotals.assistantAmount!=0 && invoiceTotals.analystAmount!=0){
         return "Analyst and Assistant"
