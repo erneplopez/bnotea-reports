@@ -20857,3 +20857,1374 @@ Error: ENOENT: no such file or directory, open 'C:\Users\ernep\OneDrive\Ernesto\
 2017-10-20T20:20:23.457Z - info: Starting rendering request 31 (user: null) requestId=31
 2017-10-20T20:20:23.458Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=31
 2017-10-20T20:20:24.307Z - info: Rendering request 31 finished in 849 ms requestId=31
+2017-10-23T17:25:11.880Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-23T17:25:11.882Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-23T17:25:11.889Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-23T17:25:11.914Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-23T17:25:11.997Z - info: Found 30 extensions
+2017-10-23T17:25:12.012Z - info: Using extension import-export
+2017-10-23T17:25:13.872Z - info: Using extension tags
+2017-10-23T17:25:13.912Z - info: Using extension templates
+2017-10-23T17:25:13.944Z - info: Using extension jsrender
+2017-10-23T17:25:13.948Z - info: Using extension cli
+2017-10-23T17:25:13.949Z - info: Using extension handlebars
+2017-10-23T17:25:13.969Z - info: Using extension debug
+2017-10-23T17:25:13.981Z - info: Using extension express
+2017-10-23T17:25:14.922Z - info: Using extension fop-pdf
+2017-10-23T17:25:14.970Z - info: Using extension phantom-pdf
+2017-10-23T17:25:15.085Z - info: Using extension fs-store
+2017-10-23T17:25:17.624Z - info: Using extension authorization
+2017-10-23T17:25:17.639Z - info: Using extension images
+2017-10-23T17:25:17.688Z - info: Using extension child-templates
+2017-10-23T17:25:17.716Z - info: Using extension browser-client
+2017-10-23T17:25:17.735Z - info: Using extension licensing
+2017-10-23T17:25:18.132Z - info: Using extension data
+2017-10-23T17:25:18.145Z - info: Using extension text
+2017-10-23T17:25:18.154Z - info: Using extension reports
+2017-10-23T17:25:18.200Z - info: Using extension resources
+2017-10-23T17:25:18.209Z - info: Using extension base
+2017-10-23T17:25:18.220Z - info: Using extension studio
+2017-10-23T17:25:19.035Z - info: Using extension html-to-xlsx
+2017-10-23T17:25:19.738Z - info: Using extension scripts
+2017-10-23T17:25:19.766Z - info: Using extension assets
+2017-10-23T17:25:19.813Z - info: Using extension scheduling
+2017-10-23T17:25:19.931Z - info: Using extension xlsx
+2017-10-23T17:25:21.290Z - info: Using extension sample-template
+2017-10-23T17:25:21.312Z - info: Using extension public-templates
+2017-10-23T17:25:21.352Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-23T17:25:21.620Z - info: Creating default express app.
+2017-10-23T17:25:22.122Z - info: jsreport server successfully started on http port: 5488
+2017-10-23T17:25:22.171Z - info: Verifying license key free
+2017-10-23T17:25:22.173Z - info: Using free license
+2017-10-23T17:25:22.176Z - info: reporter initialized
+2017-10-23T17:26:06.399Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-23T17:26:06.405Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-10-23T17:26:06.407Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-10-23T17:26:06.409Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-10-23T17:26:06.411Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-23T17:26:06.413Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-10-23T17:26:06.420Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-10-23T17:26:06.424Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-10-23T17:26:09.128Z - info: Rendering request 1 finished in 2732 ms requestId=1
+2017-10-23T17:26:09.138Z - info: Rendering request 3 finished in 2731 ms requestId=3
+2017-10-23T17:26:09.144Z - info: Rendering request 2 finished in 2739 ms requestId=2
+2017-10-23T17:26:09.147Z - info: Rendering request 4 finished in 2737 ms requestId=4
+2017-10-23T18:15:50.258Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-10-23T18:15:50.262Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-10-23T18:15:50.264Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-10-23T18:15:50.266Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-10-23T18:15:51.370Z - info: Rendering request 6 finished in 1108 ms requestId=6
+2017-10-23T18:15:51.378Z - info: Rendering request 5 finished in 1123 ms requestId=5
+2017-10-23T18:17:03.306Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-10-23T18:17:03.309Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-10-23T18:17:03.311Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-10-23T18:17:03.312Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-10-23T18:17:03.314Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-10-23T18:17:03.315Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-10-23T18:17:03.317Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-10-23T18:17:03.320Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-10-23T18:17:04.885Z - info: Rendering request 10 finished in 1574 ms requestId=10
+2017-10-23T18:17:04.894Z - info: Rendering request 7 finished in 1589 ms requestId=7
+2017-10-23T18:17:05.017Z - info: Rendering request 8 finished in 1708 ms requestId=8
+2017-10-23T18:17:05.324Z - info: Rendering request 9 finished in 2013 ms requestId=9
+2017-10-24T19:37:10.818Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-24T19:37:10.820Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-24T19:37:10.834Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-24T19:37:10.860Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-24T19:37:10.995Z - info: Found 30 extensions
+2017-10-24T19:37:11.015Z - info: Using extension import-export
+2017-10-24T19:37:13.157Z - info: Using extension tags
+2017-10-24T19:37:13.219Z - info: Using extension templates
+2017-10-24T19:37:13.249Z - info: Using extension jsrender
+2017-10-24T19:37:13.252Z - info: Using extension cli
+2017-10-24T19:37:13.253Z - info: Using extension handlebars
+2017-10-24T19:37:13.285Z - info: Using extension debug
+2017-10-24T19:37:13.295Z - info: Using extension express
+2017-10-24T19:37:14.317Z - info: Using extension fop-pdf
+2017-10-24T19:37:14.384Z - info: Using extension phantom-pdf
+2017-10-24T19:37:14.550Z - info: Using extension fs-store
+2017-10-24T19:37:17.161Z - info: Using extension authorization
+2017-10-24T19:37:17.168Z - info: Using extension images
+2017-10-24T19:37:17.209Z - info: Using extension child-templates
+2017-10-24T19:37:17.234Z - info: Using extension browser-client
+2017-10-24T19:37:17.254Z - info: Using extension licensing
+2017-10-24T19:37:17.562Z - info: Using extension data
+2017-10-24T19:37:17.572Z - info: Using extension text
+2017-10-24T19:37:17.583Z - info: Using extension reports
+2017-10-24T19:37:17.624Z - info: Using extension resources
+2017-10-24T19:37:17.637Z - info: Using extension base
+2017-10-24T19:37:17.648Z - info: Using extension studio
+2017-10-24T19:37:18.431Z - info: Using extension html-to-xlsx
+2017-10-24T19:37:19.122Z - info: Using extension scripts
+2017-10-24T19:37:19.136Z - info: Using extension assets
+2017-10-24T19:37:19.192Z - info: Using extension scheduling
+2017-10-24T19:37:19.336Z - info: Using extension xlsx
+2017-10-24T19:37:20.619Z - info: Using extension sample-template
+2017-10-24T19:37:20.641Z - info: Using extension public-templates
+2017-10-24T19:37:20.680Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-24T19:37:20.947Z - info: Creating default express app.
+2017-10-24T19:37:21.401Z - info: jsreport server successfully started on http port: 5488
+2017-10-24T19:37:21.430Z - info: Verifying license key free
+2017-10-24T19:37:21.431Z - info: Using free license
+2017-10-24T19:37:21.435Z - info: reporter initialized
+2017-10-24T19:37:55.427Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-24T19:37:55.430Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-10-24T19:37:55.432Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-10-24T19:37:55.432Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-10-24T19:37:55.435Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-24T19:37:55.439Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-10-24T19:37:55.440Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-10-24T19:37:55.442Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-10-24T19:37:58.068Z - info: Rendering request 4 finished in 2634 ms requestId=4
+2017-10-24T19:37:58.079Z - info: Rendering request 2 finished in 2648 ms requestId=2
+2017-10-24T19:37:58.082Z - info: Rendering request 1 finished in 2656 ms requestId=1
+2017-10-24T19:37:58.084Z - info: Rendering request 3 finished in 2653 ms requestId=3
+2017-10-25T18:51:18.642Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-25T18:51:18.647Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-25T18:51:18.665Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-25T18:51:18.700Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-25T18:51:18.797Z - info: Found 30 extensions
+2017-10-25T18:51:18.813Z - info: Using extension import-export
+2017-10-25T18:51:21.216Z - info: Using extension tags
+2017-10-25T18:51:21.313Z - info: Using extension templates
+2017-10-25T18:51:21.351Z - info: Using extension jsrender
+2017-10-25T18:51:21.354Z - info: Using extension cli
+2017-10-25T18:51:21.355Z - info: Using extension handlebars
+2017-10-25T18:51:21.376Z - info: Using extension debug
+2017-10-25T18:51:21.387Z - info: Using extension express
+2017-10-25T18:51:22.413Z - info: Using extension fop-pdf
+2017-10-25T18:51:22.497Z - info: Using extension phantom-pdf
+2017-10-25T18:51:22.615Z - info: Using extension fs-store
+2017-10-25T18:51:25.559Z - info: Using extension authorization
+2017-10-25T18:51:25.578Z - info: Using extension images
+2017-10-25T18:51:25.620Z - info: Using extension child-templates
+2017-10-25T18:51:25.646Z - info: Using extension browser-client
+2017-10-25T18:51:25.665Z - info: Using extension licensing
+2017-10-25T18:51:26.115Z - info: Using extension data
+2017-10-25T18:51:26.125Z - info: Using extension text
+2017-10-25T18:51:26.135Z - info: Using extension reports
+2017-10-25T18:51:26.193Z - info: Using extension resources
+2017-10-25T18:51:26.206Z - info: Using extension base
+2017-10-25T18:51:26.217Z - info: Using extension studio
+2017-10-25T18:51:27.189Z - info: Using extension html-to-xlsx
+2017-10-25T18:51:27.950Z - info: Using extension scripts
+2017-10-25T18:51:27.974Z - info: Using extension assets
+2017-10-25T18:51:28.034Z - info: Using extension scheduling
+2017-10-25T18:51:28.178Z - info: Using extension xlsx
+2017-10-25T18:51:29.709Z - info: Using extension sample-template
+2017-10-25T18:51:29.746Z - info: Using extension public-templates
+2017-10-25T18:51:29.783Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-25T18:51:30.098Z - info: Creating default express app.
+2017-10-25T18:51:30.658Z - info: jsreport server successfully started on http port: 5488
+2017-10-25T18:51:30.689Z - info: Verifying license key free
+2017-10-25T18:51:30.691Z - info: Using free license
+2017-10-25T18:51:30.697Z - info: reporter initialized
+2017-10-25T18:51:57.554Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-25T18:51:57.557Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-10-25T18:51:57.559Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-10-25T18:51:57.560Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-10-25T18:51:57.564Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-25T18:51:57.566Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-10-25T18:51:57.568Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-10-25T18:51:57.571Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-10-25T18:52:00.305Z - info: Rendering request 4 finished in 2745 ms requestId=4
+2017-10-25T18:52:00.313Z - info: Rendering request 1 finished in 2759 ms requestId=1
+2017-10-25T18:52:00.316Z - info: Rendering request 2 finished in 2758 ms requestId=2
+2017-10-25T18:52:00.323Z - info: Rendering request 3 finished in 2761 ms requestId=3
+2017-10-26T19:19:43.511Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-26T19:19:43.513Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-26T19:19:43.527Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-10-26T19:19:43.553Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-10-26T19:19:43.640Z - info: Found 30 extensions
+2017-10-26T19:19:43.654Z - info: Using extension import-export
+2017-10-26T19:19:45.672Z - info: Using extension tags
+2017-10-26T19:19:45.720Z - info: Using extension templates
+2017-10-26T19:19:45.750Z - info: Using extension jsrender
+2017-10-26T19:19:45.753Z - info: Using extension cli
+2017-10-26T19:19:45.754Z - info: Using extension handlebars
+2017-10-26T19:19:45.774Z - info: Using extension debug
+2017-10-26T19:19:45.786Z - info: Using extension express
+2017-10-26T19:19:46.640Z - info: Using extension fop-pdf
+2017-10-26T19:19:46.684Z - info: Using extension phantom-pdf
+2017-10-26T19:19:46.798Z - info: Using extension fs-store
+2017-10-26T19:19:49.400Z - info: Using extension authorization
+2017-10-26T19:19:49.414Z - info: Using extension images
+2017-10-26T19:19:49.452Z - info: Using extension child-templates
+2017-10-26T19:19:49.477Z - info: Using extension browser-client
+2017-10-26T19:19:49.498Z - info: Using extension licensing
+2017-10-26T19:19:49.882Z - info: Using extension data
+2017-10-26T19:19:49.890Z - info: Using extension text
+2017-10-26T19:19:49.901Z - info: Using extension reports
+2017-10-26T19:19:49.941Z - info: Using extension resources
+2017-10-26T19:19:49.955Z - info: Using extension base
+2017-10-26T19:19:49.966Z - info: Using extension studio
+2017-10-26T19:19:50.924Z - info: Using extension html-to-xlsx
+2017-10-26T19:19:51.894Z - info: Using extension scripts
+2017-10-26T19:19:51.905Z - info: Using extension assets
+2017-10-26T19:19:51.960Z - info: Using extension scheduling
+2017-10-26T19:19:52.077Z - info: Using extension xlsx
+2017-10-26T19:19:53.644Z - info: Using extension sample-template
+2017-10-26T19:19:53.666Z - info: Using extension public-templates
+2017-10-26T19:19:53.707Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-10-26T19:19:54.111Z - info: Creating default express app.
+2017-10-26T19:19:54.593Z - info: jsreport server successfully started on http port: 5488
+2017-10-26T19:19:54.621Z - info: Verifying license key free
+2017-10-26T19:19:54.623Z - info: Using free license
+2017-10-26T19:19:54.626Z - info: reporter initialized
+2017-10-26T19:20:23.569Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-10-26T19:20:23.572Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-10-26T19:20:23.573Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-10-26T19:20:23.574Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-10-26T19:20:23.577Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-10-26T19:20:23.580Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-10-26T19:20:23.582Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-10-26T19:20:23.584Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-10-26T19:20:25.931Z - info: Rendering request 1 finished in 2363 ms requestId=1
+2017-10-26T19:20:25.939Z - info: Rendering request 3 finished in 2365 ms requestId=3
+2017-10-26T19:20:25.943Z - info: Rendering request 4 finished in 2368 ms requestId=4
+2017-10-26T19:20:25.948Z - info: Rendering request 2 finished in 2374 ms requestId=2
+2017-10-26T19:22:44.616Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-10-26T19:22:44.618Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-10-26T19:22:44.619Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-10-26T19:22:44.620Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-10-26T19:22:44.621Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-10-26T19:22:44.623Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-10-26T19:22:44.624Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-10-26T19:22:44.625Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-10-26T19:22:44.626Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-10-26T19:22:44.628Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-10-26T19:22:44.629Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-10-26T19:22:44.631Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-10-26T19:22:44.635Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-10-26T19:22:44.638Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-10-26T19:22:44.641Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-10-26T19:22:44.643Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-10-26T19:22:44.649Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-10-26T19:22:44.658Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-10-26T19:22:48.159Z - info: Rendering request 10 finished in 3536 ms requestId=10
+2017-10-26T19:22:48.168Z - info: Rendering request 6 finished in 3549 ms requestId=6
+2017-10-26T19:22:48.387Z - info: Rendering request 7 finished in 3767 ms requestId=7
+2017-10-26T19:22:48.404Z - info: Rendering request 12 finished in 3778 ms requestId=12
+2017-10-26T19:22:48.410Z - info: Rendering request 8 finished in 3788 ms requestId=8
+2017-10-26T19:22:48.418Z - info: Rendering request 13 finished in 3792 ms requestId=13
+2017-10-26T19:22:48.421Z - info: Rendering request 5 finished in 3806 ms requestId=5
+2017-10-26T19:22:48.508Z - info: Rendering request 9 finished in 3886 ms requestId=9
+2017-10-26T19:22:48.510Z - info: Rendering request 11 finished in 3886 ms requestId=11
+2017-11-06T15:25:51.101Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-06T15:25:51.103Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-06T15:25:51.150Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-06T15:25:51.249Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-06T15:25:52.266Z - info: Found 30 extensions
+2017-11-06T15:25:52.316Z - info: Using extension import-export
+2017-11-06T15:25:56.515Z - info: Using extension tags
+2017-11-06T15:25:56.692Z - info: Using extension templates
+2017-11-06T15:25:56.785Z - info: Using extension jsrender
+2017-11-06T15:25:56.787Z - info: Using extension cli
+2017-11-06T15:25:56.788Z - info: Using extension handlebars
+2017-11-06T15:25:56.821Z - info: Using extension debug
+2017-11-06T15:25:56.837Z - info: Using extension express
+2017-11-06T15:25:58.381Z - info: Using extension fop-pdf
+2017-11-06T15:25:58.574Z - info: Using extension phantom-pdf
+2017-11-06T15:25:58.982Z - info: Using extension fs-store
+2017-11-06T15:26:03.939Z - info: Using extension authorization
+2017-11-06T15:26:03.956Z - info: Using extension images
+2017-11-06T15:26:03.995Z - info: Using extension child-templates
+2017-11-06T15:26:04.054Z - info: Using extension browser-client
+2017-11-06T15:26:04.073Z - info: Using extension licensing
+2017-11-06T15:26:04.839Z - info: Using extension data
+2017-11-06T15:26:04.849Z - info: Using extension text
+2017-11-06T15:26:04.861Z - info: Using extension reports
+2017-11-06T15:26:04.951Z - info: Using extension resources
+2017-11-06T15:26:04.998Z - info: Using extension base
+2017-11-06T15:26:05.017Z - info: Using extension studio
+2017-11-06T15:26:06.450Z - info: Using extension html-to-xlsx
+2017-11-06T15:26:07.572Z - info: Using extension scripts
+2017-11-06T15:26:07.580Z - info: Using extension assets
+2017-11-06T15:26:07.653Z - info: Using extension scheduling
+2017-11-06T15:26:07.878Z - info: Using extension xlsx
+2017-11-06T15:26:10.256Z - info: Using extension sample-template
+2017-11-06T15:26:10.294Z - info: Using extension public-templates
+2017-11-06T15:26:10.385Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-06T15:26:10.718Z - info: Creating default express app.
+2017-11-06T15:26:11.613Z - info: jsreport server successfully started on http port: 5488
+2017-11-06T15:26:11.689Z - info: Verifying license key free
+2017-11-06T15:26:11.690Z - info: Using free license
+2017-11-06T15:26:11.693Z - info: reporter initialized
+2017-11-06T15:37:26.991Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-06T15:37:26.997Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-06T15:37:26.999Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-06T15:37:27.002Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-06T15:37:29.434Z - info: Rendering request 1 finished in 2446 ms requestId=1
+2017-11-06T15:37:29.448Z - info: Rendering request 2 finished in 2451 ms requestId=2
+2017-11-06T16:01:52.501Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-06T16:01:52.505Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-06T16:01:53.532Z - info: Rendering request 3 finished in 1035 ms requestId=3
+2017-11-06T16:02:24.771Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-06T16:02:24.772Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-06T16:02:25.529Z - info: Rendering request 4 finished in 758 ms requestId=4
+2017-11-06T16:03:52.276Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-06T16:03:52.280Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-06T16:03:53.149Z - info: Rendering request 5 finished in 878 ms requestId=5
+2017-11-06T16:05:50.208Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-06T16:05:50.210Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-06T16:05:51.077Z - info: Rendering request 6 finished in 868 ms requestId=6
+2017-11-06T16:06:56.688Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-06T16:06:56.689Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-06T16:06:57.648Z - info: Rendering request 7 finished in 960 ms requestId=7
+2017-11-06T16:09:57.386Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-06T16:09:57.388Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-06T16:09:58.279Z - info: Rendering request 8 finished in 894 ms requestId=8
+2017-11-06T16:11:59.391Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-06T16:11:59.394Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-06T16:12:00.283Z - info: Rendering request 9 finished in 892 ms requestId=9
+2017-11-06T16:14:38.828Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-06T16:14:38.829Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-06T16:14:39.686Z - info: Rendering request 10 finished in 858 ms requestId=10
+2017-11-06T16:15:40.509Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-06T16:15:40.510Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-06T16:15:41.369Z - info: Rendering request 11 finished in 860 ms requestId=11
+2017-11-06T16:15:55.256Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-06T16:15:55.258Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-06T16:15:56.121Z - info: Rendering request 12 finished in 866 ms requestId=12
+2017-11-06T16:17:03.125Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-06T16:17:03.127Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-06T16:17:04.001Z - info: Rendering request 13 finished in 877 ms requestId=13
+2017-11-06T16:19:21.135Z - info: Starting rendering request 14 (user: null) requestId=14
+2017-11-06T16:19:21.137Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=14
+2017-11-06T16:19:22.003Z - info: Rendering request 14 finished in 868 ms requestId=14
+2017-11-06T16:20:58.836Z - info: Starting rendering request 15 (user: null) requestId=15
+2017-11-06T16:20:58.838Z - info: Starting rendering request 16 (user: null) requestId=16
+2017-11-06T16:20:58.838Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=15
+2017-11-06T16:20:58.840Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=16
+2017-11-06T16:20:59.959Z - info: Rendering request 16 finished in 1121 ms requestId=16
+2017-11-06T16:20:59.971Z - info: Rendering request 15 finished in 1134 ms requestId=15
+2017-11-06T16:35:40.644Z - info: Starting rendering request 17 (user: null) requestId=17
+2017-11-06T16:35:40.650Z - info: Starting rendering request 18 (user: null) requestId=18
+2017-11-06T16:35:40.652Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=17
+2017-11-06T16:35:40.655Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=18
+2017-11-06T16:35:42.135Z - info: Rendering request 18 finished in 1486 ms requestId=18
+2017-11-06T16:35:42.151Z - info: Rendering request 17 finished in 1510 ms requestId=17
+2017-11-06T16:36:45.952Z - info: Starting rendering request 19 (user: null) requestId=19
+2017-11-06T16:36:45.954Z - info: Starting rendering request 20 (user: null) requestId=20
+2017-11-06T16:36:45.955Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=19
+2017-11-06T16:36:45.957Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=20
+2017-11-06T16:36:47.220Z - info: Rendering request 20 finished in 1266 ms requestId=20
+2017-11-06T16:36:47.246Z - info: Rendering request 19 finished in 1295 ms requestId=19
+2017-11-06T17:11:06.662Z - info: Starting rendering request 21 (user: null) requestId=21
+2017-11-06T17:11:06.666Z - info: Starting rendering request 22 (user: null) requestId=22
+2017-11-06T17:11:06.668Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=21
+2017-11-06T17:11:06.671Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=22
+2017-11-06T17:11:07.813Z - info: Rendering request 22 finished in 1147 ms requestId=22
+2017-11-06T17:11:07.826Z - info: Rendering request 21 finished in 1167 ms requestId=21
+2017-11-06T17:19:58.545Z - info: Starting rendering request 23 (user: null) requestId=23
+2017-11-06T17:19:58.548Z - info: Starting rendering request 24 (user: null) requestId=24
+2017-11-06T17:19:58.549Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=23
+2017-11-06T17:19:58.551Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=24
+2017-11-06T17:19:59.851Z - info: Rendering request 23 finished in 1307 ms requestId=23
+2017-11-06T17:19:59.855Z - info: Rendering request 24 finished in 1307 ms requestId=24
+2017-11-06T17:22:43.479Z - info: Starting rendering request 25 (user: null) requestId=25
+2017-11-06T17:22:43.482Z - info: Starting rendering request 26 (user: null) requestId=26
+2017-11-06T17:22:43.483Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=25
+2017-11-06T17:22:43.485Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=26
+2017-11-06T17:22:44.708Z - info: Rendering request 26 finished in 1227 ms requestId=26
+2017-11-06T17:22:44.712Z - info: Rendering request 25 finished in 1235 ms requestId=25
+2017-11-06T17:43:49.024Z - info: Starting rendering request 27 (user: null) requestId=27
+2017-11-06T17:43:49.031Z - info: Starting rendering request 28 (user: null) requestId=28
+2017-11-06T17:43:49.035Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=27
+2017-11-06T17:43:49.038Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=28
+2017-11-06T17:43:50.379Z - info: Rendering request 28 finished in 1348 ms requestId=28
+2017-11-06T17:43:50.391Z - info: Rendering request 27 finished in 1371 ms requestId=27
+2017-11-06T17:45:32.129Z - info: Starting rendering request 29 (user: null) requestId=29
+2017-11-06T17:45:32.134Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=29
+2017-11-06T17:45:33.100Z - info: Rendering request 29 finished in 975 ms requestId=29
+2017-11-06T17:47:36.503Z - info: Starting rendering request 30 (user: null) requestId=30
+2017-11-06T17:47:36.504Z - info: Starting rendering request 31 (user: null) requestId=31
+2017-11-06T17:47:36.505Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=30
+2017-11-06T17:47:36.507Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=31
+2017-11-06T17:47:37.662Z - info: Rendering request 31 finished in 1157 ms requestId=31
+2017-11-06T17:47:37.764Z - info: Rendering request 30 finished in 1262 ms requestId=30
+2017-11-06T17:52:06.578Z - info: Starting rendering request 32 (user: null) requestId=32
+2017-11-06T17:52:06.579Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=32
+2017-11-06T17:52:07.557Z - info: Rendering request 32 finished in 979 ms requestId=32
+2017-11-06T17:52:54.715Z - info: Starting rendering request 33 (user: null) requestId=33
+2017-11-06T17:52:54.716Z - info: Starting rendering request 34 (user: null) requestId=34
+2017-11-06T17:52:54.717Z - info: Starting rendering request 35 (user: null) requestId=35
+2017-11-06T17:52:54.718Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=33
+2017-11-06T17:52:54.720Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=34
+2017-11-06T17:52:54.721Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=35
+2017-11-06T17:52:56.202Z - info: Rendering request 35 finished in 1485 ms requestId=35
+2017-11-06T17:52:56.214Z - info: Rendering request 34 finished in 1497 ms requestId=34
+2017-11-06T17:52:56.242Z - info: Rendering request 33 finished in 1527 ms requestId=33
+2017-11-06T18:49:24.094Z - info: Starting rendering request 36 (user: null) requestId=36
+2017-11-06T18:49:24.097Z - info: Starting rendering request 37 (user: null) requestId=37
+2017-11-06T18:49:24.098Z - info: Starting rendering request 38 (user: null) requestId=38
+2017-11-06T18:49:24.102Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=36
+2017-11-06T18:49:24.104Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=37
+2017-11-06T18:49:24.105Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=38
+2017-11-06T18:49:25.663Z - info: Rendering request 37 finished in 1566 ms requestId=37
+2017-11-06T18:49:25.676Z - info: Rendering request 36 finished in 1585 ms requestId=36
+2017-11-06T18:49:25.688Z - info: Rendering request 38 finished in 1589 ms requestId=38
+2017-11-06T18:52:17.042Z - info: Starting rendering request 39 (user: null) requestId=39
+2017-11-06T18:52:17.043Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=39
+2017-11-06T18:52:17.799Z - info: Rendering request 39 finished in 758 ms requestId=39
+2017-11-06T19:05:56.806Z - info: Starting rendering request 40 (user: null) requestId=40
+2017-11-06T19:05:56.810Z - info: Starting rendering request 41 (user: null) requestId=41
+2017-11-06T19:05:56.812Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=40
+2017-11-06T19:05:56.814Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=41
+2017-11-06T19:05:58.137Z - info: Rendering request 41 finished in 1328 ms requestId=41
+2017-11-06T19:05:58.147Z - info: Rendering request 40 finished in 1343 ms requestId=40
+2017-11-07T03:58:46.450Z - info: Starting rendering request 42 (user: null) requestId=42
+2017-11-07T03:58:46.456Z - info: Starting rendering request 43 (user: null) requestId=43
+2017-11-07T03:58:46.457Z - info: Starting rendering request 44 (user: null) requestId=44
+2017-11-07T03:58:46.460Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=42
+2017-11-07T03:58:46.464Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=43
+2017-11-07T03:58:46.465Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=44
+2017-11-07T03:58:47.601Z - info: Rendering request 44 finished in 1143 ms requestId=44
+2017-11-07T03:58:47.629Z - info: Rendering request 43 finished in 1174 ms requestId=43
+2017-11-07T03:58:47.646Z - info: Rendering request 42 finished in 1198 ms requestId=42
+2017-11-07T19:06:02.402Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-07T19:06:02.404Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-07T19:06:02.407Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-07T19:06:02.413Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-07T19:06:02.511Z - info: Found 30 extensions
+2017-11-07T19:06:02.526Z - info: Using extension import-export
+2017-11-07T19:06:02.682Z - info: Using extension tags
+2017-11-07T19:06:02.687Z - info: Using extension templates
+2017-11-07T19:06:02.690Z - info: Using extension jsrender
+2017-11-07T19:06:02.691Z - info: Using extension cli
+2017-11-07T19:06:02.692Z - info: Using extension handlebars
+2017-11-07T19:06:02.694Z - info: Using extension debug
+2017-11-07T19:06:02.695Z - info: Using extension express
+2017-11-07T19:06:02.775Z - info: Using extension fop-pdf
+2017-11-07T19:06:02.781Z - info: Using extension phantom-pdf
+2017-11-07T19:06:02.828Z - info: Using extension fs-store
+2017-11-07T19:06:03.000Z - info: Using extension authorization
+2017-11-07T19:06:03.003Z - info: Using extension images
+2017-11-07T19:06:03.008Z - info: Using extension child-templates
+2017-11-07T19:06:03.012Z - info: Using extension browser-client
+2017-11-07T19:06:03.014Z - info: Using extension licensing
+2017-11-07T19:06:03.062Z - info: Using extension data
+2017-11-07T19:06:03.064Z - info: Using extension text
+2017-11-07T19:06:03.065Z - info: Using extension reports
+2017-11-07T19:06:03.070Z - info: Using extension resources
+2017-11-07T19:06:03.072Z - info: Using extension base
+2017-11-07T19:06:03.073Z - info: Using extension studio
+2017-11-07T19:06:03.150Z - info: Using extension html-to-xlsx
+2017-11-07T19:06:03.216Z - info: Using extension scripts
+2017-11-07T19:06:03.218Z - info: Using extension assets
+2017-11-07T19:06:03.224Z - info: Using extension scheduling
+2017-11-07T19:06:03.247Z - info: Using extension xlsx
+2017-11-07T19:06:03.373Z - info: Using extension sample-template
+2017-11-07T19:06:03.376Z - info: Using extension public-templates
+2017-11-07T19:06:03.382Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-07T19:06:03.534Z - info: Creating default express app.
+2017-11-07T19:06:03.587Z - info: jsreport server successfully started on http port: 5488
+2017-11-07T19:06:03.594Z - info: Verifying license key free
+2017-11-07T19:06:03.597Z - info: Using free license
+2017-11-07T19:06:03.605Z - info: reporter initialized
+2017-11-07T19:06:16.888Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-07T19:06:16.890Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-07T19:06:16.891Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-07T19:06:16.893Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-07T19:06:16.894Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-07T19:06:16.897Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-07T19:06:16.900Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-07T19:06:16.901Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-07T19:06:16.903Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-07T19:06:16.905Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-07T19:06:18.815Z - info: Rendering request 3 finished in 1922 ms requestId=3
+2017-11-07T19:06:18.824Z - info: Rendering request 2 finished in 1933 ms requestId=2
+2017-11-07T19:06:18.831Z - info: Rendering request 4 finished in 1939 ms requestId=4
+2017-11-07T19:06:18.871Z - info: Rendering request 1 finished in 1983 ms requestId=1
+2017-11-07T19:06:19.083Z - info: Rendering request 5 finished in 2189 ms requestId=5
+2017-11-08T19:01:04.015Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-08T19:01:04.020Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-08T19:01:04.037Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-08T19:01:04.067Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-08T19:01:04.165Z - info: Found 30 extensions
+2017-11-08T19:01:04.184Z - info: Using extension import-export
+2017-11-08T19:01:06.061Z - info: Using extension tags
+2017-11-08T19:01:06.099Z - info: Using extension templates
+2017-11-08T19:01:06.133Z - info: Using extension jsrender
+2017-11-08T19:01:06.136Z - info: Using extension cli
+2017-11-08T19:01:06.137Z - info: Using extension handlebars
+2017-11-08T19:01:06.158Z - info: Using extension debug
+2017-11-08T19:01:06.170Z - info: Using extension express
+2017-11-08T19:01:07.077Z - info: Using extension fop-pdf
+2017-11-08T19:01:07.134Z - info: Using extension phantom-pdf
+2017-11-08T19:01:07.266Z - info: Using extension fs-store
+2017-11-08T19:01:09.655Z - info: Using extension authorization
+2017-11-08T19:01:09.677Z - info: Using extension images
+2017-11-08T19:01:09.720Z - info: Using extension child-templates
+2017-11-08T19:01:09.745Z - info: Using extension browser-client
+2017-11-08T19:01:09.765Z - info: Using extension licensing
+2017-11-08T19:01:10.088Z - info: Using extension data
+2017-11-08T19:01:10.099Z - info: Using extension text
+2017-11-08T19:01:10.110Z - info: Using extension reports
+2017-11-08T19:01:10.151Z - info: Using extension resources
+2017-11-08T19:01:10.164Z - info: Using extension base
+2017-11-08T19:01:10.175Z - info: Using extension studio
+2017-11-08T19:01:11.033Z - info: Using extension html-to-xlsx
+2017-11-08T19:01:11.702Z - info: Using extension scripts
+2017-11-08T19:01:11.716Z - info: Using extension assets
+2017-11-08T19:01:11.777Z - info: Using extension scheduling
+2017-11-08T19:01:11.894Z - info: Using extension xlsx
+2017-11-08T19:01:13.350Z - info: Using extension sample-template
+2017-11-08T19:01:13.368Z - info: Using extension public-templates
+2017-11-08T19:01:13.411Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-08T19:01:13.790Z - info: Creating default express app.
+2017-11-08T19:01:14.318Z - info: jsreport server successfully started on http port: 5488
+2017-11-08T19:01:14.359Z - info: Verifying license key free
+2017-11-08T19:01:14.364Z - info: Using free license
+2017-11-08T19:01:14.368Z - info: reporter initialized
+2017-11-08T19:06:13.879Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-08T19:06:13.884Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-08T19:06:13.885Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-08T19:06:13.887Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-08T19:06:13.887Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-08T19:06:13.890Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-08T19:06:13.893Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-08T19:06:13.895Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-08T19:06:13.897Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-08T19:06:13.900Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-08T19:06:16.689Z - info: Rendering request 3 finished in 2804 ms requestId=3
+2017-11-08T19:06:16.701Z - info: Rendering request 1 finished in 2822 ms requestId=1
+2017-11-08T19:06:16.706Z - info: Rendering request 4 finished in 2820 ms requestId=4
+2017-11-08T19:06:16.712Z - info: Rendering request 2 finished in 2827 ms requestId=2
+2017-11-08T19:06:16.716Z - info: Rendering request 5 finished in 2828 ms requestId=5
+2017-11-08T19:16:26.794Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-08T19:16:26.799Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-08T19:16:26.801Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-08T19:16:26.804Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-08T19:16:26.806Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-08T19:16:26.808Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-08T19:16:28.104Z - info: Rendering request 8 finished in 1303 ms requestId=8
+2017-11-08T19:16:28.116Z - info: Rendering request 7 finished in 1317 ms requestId=7
+2017-11-08T19:16:28.122Z - info: Rendering request 6 finished in 1330 ms requestId=6
+2017-11-09T16:58:35.033Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-09T16:58:35.034Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-09T16:58:35.074Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-09T16:58:35.077Z - info: Extensions location cache not found, crawling directories
+2017-11-09T16:58:41.414Z - info: Found 30 extensions
+2017-11-09T16:58:41.443Z - info: Using extension import-export
+2017-11-09T16:58:43.368Z - info: Using extension tags
+2017-11-09T16:58:43.409Z - info: Using extension templates
+2017-11-09T16:58:43.438Z - info: Using extension jsrender
+2017-11-09T16:58:43.440Z - info: Using extension cli
+2017-11-09T16:58:43.441Z - info: Using extension handlebars
+2017-11-09T16:58:43.464Z - info: Using extension debug
+2017-11-09T16:58:43.478Z - info: Using extension express
+2017-11-09T16:58:44.381Z - info: Using extension fop-pdf
+2017-11-09T16:58:44.450Z - info: Using extension phantom-pdf
+2017-11-09T16:58:44.562Z - info: Using extension fs-store
+2017-11-09T16:58:47.110Z - info: Using extension authorization
+2017-11-09T16:58:47.126Z - info: Using extension images
+2017-11-09T16:58:47.165Z - info: Using extension child-templates
+2017-11-09T16:58:47.192Z - info: Using extension browser-client
+2017-11-09T16:58:47.211Z - info: Using extension licensing
+2017-11-09T16:58:47.552Z - info: Using extension data
+2017-11-09T16:58:47.560Z - info: Using extension text
+2017-11-09T16:58:47.571Z - info: Using extension reports
+2017-11-09T16:58:47.613Z - info: Using extension resources
+2017-11-09T16:58:47.626Z - info: Using extension base
+2017-11-09T16:58:47.638Z - info: Using extension studio
+2017-11-09T16:58:48.387Z - info: Using extension html-to-xlsx
+2017-11-09T16:58:49.001Z - info: Using extension scripts
+2017-11-09T16:58:49.018Z - info: Using extension assets
+2017-11-09T16:58:49.073Z - info: Using extension scheduling
+2017-11-09T16:58:49.199Z - info: Using extension xlsx
+2017-11-09T16:58:50.550Z - info: Using extension sample-template
+2017-11-09T16:58:50.571Z - info: Using extension public-templates
+2017-11-09T16:58:50.612Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-09T16:58:50.901Z - info: Creating default express app.
+2017-11-09T16:58:51.343Z - info: jsreport server successfully started on http port: 5488
+2017-11-09T16:58:51.380Z - info: Verifying license key free
+2017-11-09T16:58:51.383Z - info: Using free license
+2017-11-09T16:58:51.419Z - info: reporter initialized
+2017-11-09T16:59:13.835Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-09T16:59:13.839Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-09T16:59:13.843Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-09T16:59:13.845Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-09T16:59:13.846Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-09T16:59:13.847Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-09T16:59:13.848Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-09T16:59:13.849Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-09T16:59:13.850Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-09T16:59:13.852Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-09T16:59:13.853Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-09T16:59:13.859Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-09T16:59:13.861Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-09T16:59:13.864Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-09T16:59:13.866Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-09T16:59:13.868Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-09T16:59:13.872Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-09T16:59:13.874Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-09T16:59:13.885Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-09T16:59:13.905Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-09T16:59:13.911Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-09T16:59:13.922Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-09T16:59:23.841Z - info: Rendering request 1 finished in 10006 ms requestId=1
+2017-11-09T16:59:23.875Z - info: Rendering request 2 finished in 10034 ms requestId=2
+2017-11-09T16:59:23.992Z - info: Rendering request 11 finished in 10138 ms requestId=11
+2017-11-09T16:59:24.025Z - info: Rendering request 3 finished in 10180 ms requestId=3
+2017-11-09T16:59:24.117Z - info: Rendering request 10 finished in 10264 ms requestId=10
+2017-11-09T16:59:24.168Z - info: Rendering request 7 finished in 10320 ms requestId=7
+2017-11-09T16:59:24.192Z - info: Rendering request 5 finished in 10346 ms requestId=5
+2017-11-09T16:59:24.301Z - info: Rendering request 9 finished in 10449 ms requestId=9
+2017-11-09T16:59:24.329Z - info: Rendering request 8 finished in 10480 ms requestId=8
+2017-11-09T16:59:24.353Z - info: Rendering request 4 finished in 10506 ms requestId=4
+2017-11-09T16:59:24.377Z - info: Rendering request 6 finished in 10530 ms requestId=6
+2017-11-09T17:02:50.583Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-09T17:02:50.585Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-09T17:02:50.589Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-09T17:02:50.597Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-09T17:02:50.739Z - info: Found 30 extensions
+2017-11-09T17:02:50.762Z - info: Using extension import-export
+2017-11-09T17:02:50.978Z - info: Using extension tags
+2017-11-09T17:02:50.988Z - info: Using extension templates
+2017-11-09T17:02:50.994Z - info: Using extension jsrender
+2017-11-09T17:02:50.999Z - info: Using extension cli
+2017-11-09T17:02:51.001Z - info: Using extension handlebars
+2017-11-09T17:02:51.003Z - info: Using extension debug
+2017-11-09T17:02:51.005Z - info: Using extension express
+2017-11-09T17:02:51.105Z - info: Using extension fop-pdf
+2017-11-09T17:02:51.121Z - info: Using extension phantom-pdf
+2017-11-09T17:02:51.179Z - info: Using extension fs-store
+2017-11-09T17:02:51.401Z - info: Using extension authorization
+2017-11-09T17:02:51.408Z - info: Using extension images
+2017-11-09T17:02:51.419Z - info: Using extension child-templates
+2017-11-09T17:02:51.424Z - info: Using extension browser-client
+2017-11-09T17:02:51.426Z - info: Using extension licensing
+2017-11-09T17:02:51.469Z - info: Using extension data
+2017-11-09T17:02:51.470Z - info: Using extension text
+2017-11-09T17:02:51.472Z - info: Using extension reports
+2017-11-09T17:02:51.477Z - info: Using extension resources
+2017-11-09T17:02:51.479Z - info: Using extension base
+2017-11-09T17:02:51.480Z - info: Using extension studio
+2017-11-09T17:02:51.568Z - info: Using extension html-to-xlsx
+2017-11-09T17:02:51.655Z - info: Using extension scripts
+2017-11-09T17:02:51.659Z - info: Using extension assets
+2017-11-09T17:02:51.666Z - info: Using extension scheduling
+2017-11-09T17:02:51.705Z - info: Using extension xlsx
+2017-11-09T17:02:51.894Z - info: Using extension sample-template
+2017-11-09T17:02:51.897Z - info: Using extension public-templates
+2017-11-09T17:02:51.908Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-09T17:02:52.128Z - info: Creating default express app.
+2017-11-09T17:02:52.189Z - info: jsreport server successfully started on http port: 5488
+2017-11-09T17:02:52.197Z - info: Verifying license key free
+2017-11-09T17:02:52.220Z - info: Using free license
+2017-11-09T17:02:52.227Z - info: reporter initialized
+2017-11-09T17:09:25.464Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-09T17:09:25.469Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-09T17:09:25.472Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-09T17:09:25.475Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-09T17:09:27.098Z - info: Rendering request 1 finished in 1638 ms requestId=1
+2017-11-09T17:09:27.210Z - info: Rendering request 2 finished in 1741 ms requestId=2
+2017-11-09T19:33:43.158Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-09T19:33:43.158Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-09T19:33:43.158Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-09T19:33:43.180Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-09T19:33:43.286Z - info: Found 30 extensions
+2017-11-09T19:33:43.324Z - info: Using extension import-export
+2017-11-09T19:33:43.502Z - info: Using extension tags
+2017-11-09T19:33:43.502Z - info: Using extension templates
+2017-11-09T19:33:43.524Z - info: Using extension jsrender
+2017-11-09T19:33:43.526Z - info: Using extension cli
+2017-11-09T19:33:43.528Z - info: Using extension handlebars
+2017-11-09T19:33:43.531Z - info: Using extension debug
+2017-11-09T19:33:43.532Z - info: Using extension express
+2017-11-09T19:33:43.604Z - info: Using extension fop-pdf
+2017-11-09T19:33:43.628Z - info: Using extension phantom-pdf
+2017-11-09T19:33:43.682Z - info: Using extension fs-store
+2017-11-09T19:33:43.880Z - info: Using extension authorization
+2017-11-09T19:33:43.880Z - info: Using extension images
+2017-11-09T19:33:43.896Z - info: Using extension child-templates
+2017-11-09T19:33:43.896Z - info: Using extension browser-client
+2017-11-09T19:33:43.896Z - info: Using extension licensing
+2017-11-09T19:33:43.954Z - info: Using extension data
+2017-11-09T19:33:43.955Z - info: Using extension text
+2017-11-09T19:33:43.957Z - info: Using extension reports
+2017-11-09T19:33:43.960Z - info: Using extension resources
+2017-11-09T19:33:43.962Z - info: Using extension base
+2017-11-09T19:33:43.963Z - info: Using extension studio
+2017-11-09T19:33:44.036Z - info: Using extension html-to-xlsx
+2017-11-09T19:33:44.120Z - info: Using extension scripts
+2017-11-09T19:33:44.120Z - info: Using extension assets
+2017-11-09T19:33:44.136Z - info: Using extension scheduling
+2017-11-09T19:33:44.175Z - info: Using extension xlsx
+2017-11-09T19:33:44.300Z - info: Using extension sample-template
+2017-11-09T19:33:44.316Z - info: Using extension public-templates
+2017-11-09T19:33:44.325Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-09T19:33:44.537Z - info: Creating default express app.
+2017-11-09T19:33:44.603Z - info: jsreport server successfully started on http port: 5488
+2017-11-09T19:33:44.605Z - info: Verifying license key free
+2017-11-09T19:33:44.605Z - info: Using free license
+2017-11-09T19:33:44.661Z - info: reporter initialized
+2017-11-09T19:35:09.269Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-09T19:35:09.269Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-09T19:35:09.269Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-09T19:35:09.269Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-09T19:35:10.579Z - info: Rendering request 2 finished in 1310 ms requestId=2
+2017-11-09T19:35:10.598Z - info: Rendering request 1 finished in 1341 ms requestId=1
+2017-11-09T19:35:47.274Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-09T19:35:47.289Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-09T19:35:47.289Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-09T19:35:47.293Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-09T19:35:47.293Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-09T19:35:47.293Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-09T19:35:47.293Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-09T19:35:47.293Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-09T19:35:47.293Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-09T19:35:47.293Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-09T19:35:47.293Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-09T19:35:47.293Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-09T19:35:47.309Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-09T19:35:47.312Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-09T19:35:47.314Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-09T19:35:47.318Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-09T19:35:47.320Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-09T19:35:47.322Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-09T19:35:47.327Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-09T19:35:47.344Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-09T19:35:47.349Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-09T19:35:47.366Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-09T19:35:51.873Z - info: Rendering request 3 finished in 4598 ms requestId=3
+2017-11-09T19:35:52.011Z - info: Rendering request 10 finished in 4718 ms requestId=10
+2017-11-09T19:35:52.027Z - info: Rendering request 6 finished in 4734 ms requestId=6
+2017-11-09T19:35:52.038Z - info: Rendering request 4 finished in 4764 ms requestId=4
+2017-11-09T19:35:52.158Z - info: Rendering request 9 finished in 4865 ms requestId=9
+2017-11-09T19:35:52.170Z - info: Rendering request 7 finished in 4877 ms requestId=7
+2017-11-09T19:35:52.199Z - info: Rendering request 5 finished in 4909 ms requestId=5
+2017-11-09T19:35:52.267Z - info: Rendering request 11 finished in 4973 ms requestId=11
+2017-11-09T19:35:52.280Z - info: Rendering request 12 finished in 4986 ms requestId=12
+2017-11-09T19:35:52.353Z - info: Rendering request 8 finished in 5060 ms requestId=8
+2017-11-09T19:35:52.429Z - info: Rendering request 13 finished in 5135 ms requestId=13
+2017-11-09T19:36:48.526Z - info: Starting rendering request 14 (user: null) requestId=14
+2017-11-09T19:36:48.526Z - info: Starting rendering request 15 (user: null) requestId=15
+2017-11-09T19:36:48.526Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=14
+2017-11-09T19:36:48.541Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=15
+2017-11-09T19:36:49.788Z - info: Rendering request 15 finished in 1246 ms requestId=15
+2017-11-09T19:36:49.906Z - info: Rendering request 14 finished in 1380 ms requestId=14
+2017-11-09T19:37:10.582Z - info: Starting rendering request 16 (user: null) requestId=16
+2017-11-09T19:37:10.582Z - info: Starting rendering request 17 (user: null) requestId=17
+2017-11-09T19:37:10.582Z - info: Starting rendering request 18 (user: null) requestId=18
+2017-11-09T19:37:10.582Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=16
+2017-11-09T19:37:10.582Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=17
+2017-11-09T19:37:10.582Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=18
+2017-11-09T19:37:12.112Z - info: Rendering request 16 finished in 1530 ms requestId=16
+2017-11-09T19:37:12.127Z - info: Rendering request 17 finished in 1530 ms requestId=17
+2017-11-09T19:37:12.144Z - info: Rendering request 18 finished in 1561 ms requestId=18
+2017-11-20T15:28:17.167Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-20T15:28:17.168Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-20T15:28:17.176Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-20T15:28:17.179Z - info: Extensions location cache not found, crawling directories
+2017-11-20T15:28:18.608Z - info: Found 30 extensions
+2017-11-20T15:28:18.627Z - info: Using extension import-export
+2017-11-20T15:28:20.026Z - info: Using extension tags
+2017-11-20T15:28:20.065Z - info: Using extension templates
+2017-11-20T15:28:20.089Z - info: Using extension jsrender
+2017-11-20T15:28:20.091Z - info: Using extension cli
+2017-11-20T15:28:20.092Z - info: Using extension handlebars
+2017-11-20T15:28:20.106Z - info: Using extension debug
+2017-11-20T15:28:20.118Z - info: Using extension express
+2017-11-20T15:28:20.754Z - info: Using extension fop-pdf
+2017-11-20T15:28:20.803Z - info: Using extension phantom-pdf
+2017-11-20T15:28:20.914Z - info: Using extension fs-store
+2017-11-20T15:28:22.737Z - info: Using extension authorization
+2017-11-20T15:28:22.752Z - info: Using extension images
+2017-11-20T15:28:22.775Z - info: Using extension child-templates
+2017-11-20T15:28:22.802Z - info: Using extension browser-client
+2017-11-20T15:28:22.816Z - info: Using extension licensing
+2017-11-20T15:28:23.145Z - info: Using extension data
+2017-11-20T15:28:23.160Z - info: Using extension text
+2017-11-20T15:28:23.176Z - info: Using extension reports
+2017-11-20T15:28:23.224Z - info: Using extension resources
+2017-11-20T15:28:23.236Z - info: Using extension base
+2017-11-20T15:28:23.248Z - info: Using extension studio
+2017-11-20T15:28:23.999Z - info: Using extension html-to-xlsx
+2017-11-20T15:28:24.662Z - info: Using extension scripts
+2017-11-20T15:28:24.680Z - info: Using extension assets
+2017-11-20T15:28:24.710Z - info: Using extension scheduling
+2017-11-20T15:28:24.793Z - info: Using extension xlsx
+2017-11-20T15:28:26.147Z - info: Using extension sample-template
+2017-11-20T15:28:26.167Z - info: Using extension public-templates
+2017-11-20T15:28:26.195Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-20T15:28:26.471Z - info: Creating default express app.
+2017-11-20T15:28:26.905Z - info: jsreport server successfully started on http port: 5488
+2017-11-20T15:28:26.962Z - info: Verifying license key free
+2017-11-20T15:28:26.963Z - info: Using free license
+2017-11-20T15:28:26.965Z - info: reporter initialized
+2017-11-20T15:29:01.467Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-20T15:29:01.472Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-20T15:29:01.474Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-20T15:29:01.476Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-20T15:29:03.330Z - info: Rendering request 2 finished in 1859 ms requestId=2
+2017-11-20T15:29:03.348Z - info: Rendering request 1 finished in 1882 ms requestId=1
+2017-11-20T15:40:51.913Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-20T15:40:51.918Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-20T15:40:52.878Z - info: Rendering request 3 finished in 967 ms requestId=3
+2017-11-20T15:42:09.988Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-20T15:42:09.989Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-20T15:42:10.877Z - info: Rendering request 4 finished in 889 ms requestId=4
+2017-11-20T15:43:32.011Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-20T15:43:32.012Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-20T15:43:32.013Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-20T15:43:32.014Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-20T15:43:33.053Z - info: Rendering request 6 finished in 1039 ms requestId=6
+2017-11-20T15:43:33.197Z - info: Rendering request 5 finished in 1187 ms requestId=5
+2017-11-20T18:53:41.410Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-20T18:53:41.412Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-20T18:53:41.418Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-20T18:53:41.426Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-20T18:53:41.568Z - info: Found 30 extensions
+2017-11-20T18:53:41.591Z - info: Using extension import-export
+2017-11-20T18:53:41.909Z - info: Using extension tags
+2017-11-20T18:53:41.919Z - info: Using extension templates
+2017-11-20T18:53:41.925Z - info: Using extension jsrender
+2017-11-20T18:53:41.927Z - info: Using extension cli
+2017-11-20T18:53:41.928Z - info: Using extension handlebars
+2017-11-20T18:53:41.931Z - info: Using extension debug
+2017-11-20T18:53:41.934Z - info: Using extension express
+2017-11-20T18:53:42.038Z - info: Using extension fop-pdf
+2017-11-20T18:53:42.045Z - info: Using extension phantom-pdf
+2017-11-20T18:53:42.111Z - info: Using extension fs-store
+2017-11-20T18:53:42.434Z - info: Using extension authorization
+2017-11-20T18:53:42.437Z - info: Using extension images
+2017-11-20T18:53:42.443Z - info: Using extension child-templates
+2017-11-20T18:53:42.448Z - info: Using extension browser-client
+2017-11-20T18:53:42.450Z - info: Using extension licensing
+2017-11-20T18:53:42.501Z - info: Using extension data
+2017-11-20T18:53:42.503Z - info: Using extension text
+2017-11-20T18:53:42.505Z - info: Using extension reports
+2017-11-20T18:53:42.510Z - info: Using extension resources
+2017-11-20T18:53:42.513Z - info: Using extension base
+2017-11-20T18:53:42.514Z - info: Using extension studio
+2017-11-20T18:53:42.618Z - info: Using extension html-to-xlsx
+2017-11-20T18:53:42.752Z - info: Using extension scripts
+2017-11-20T18:53:42.767Z - info: Using extension assets
+2017-11-20T18:53:42.777Z - info: Using extension scheduling
+2017-11-20T18:53:42.821Z - info: Using extension xlsx
+2017-11-20T18:53:43.085Z - info: Using extension sample-template
+2017-11-20T18:53:43.093Z - info: Using extension public-templates
+2017-11-20T18:53:43.120Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-20T18:53:43.401Z - info: Creating default express app.
+2017-11-20T18:53:43.478Z - info: jsreport server successfully started on http port: 5488
+2017-11-20T18:53:43.488Z - info: Verifying license key free
+2017-11-20T18:53:43.490Z - info: Using free license
+2017-11-20T18:53:43.494Z - info: reporter initialized
+2017-11-20T18:56:00.626Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-20T18:56:00.630Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-20T18:56:00.631Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-20T18:56:00.631Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-20T18:56:00.633Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-20T18:56:00.635Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-20T18:56:00.636Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-20T18:56:00.638Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-20T18:56:02.445Z - info: Rendering request 2 finished in 1816 ms requestId=2
+2017-11-20T18:56:02.454Z - info: Rendering request 1 finished in 1828 ms requestId=1
+2017-11-20T18:56:02.458Z - info: Rendering request 4 finished in 1826 ms requestId=4
+2017-11-20T18:56:02.629Z - info: Rendering request 3 finished in 1998 ms requestId=3
+2017-11-21T21:22:24.277Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-21T21:22:24.279Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-21T21:22:24.282Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-21T21:22:24.289Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-21T21:22:24.444Z - info: Found 30 extensions
+2017-11-21T21:22:24.469Z - info: Using extension import-export
+2017-11-21T21:22:27.216Z - info: Using extension tags
+2017-11-21T21:22:27.340Z - info: Using extension templates
+2017-11-21T21:22:27.368Z - info: Using extension jsrender
+2017-11-21T21:22:27.371Z - info: Using extension cli
+2017-11-21T21:22:27.373Z - info: Using extension handlebars
+2017-11-21T21:22:27.386Z - info: Using extension debug
+2017-11-21T21:22:27.406Z - info: Using extension express
+2017-11-21T21:22:28.581Z - info: Using extension fop-pdf
+2017-11-21T21:22:28.673Z - info: Using extension phantom-pdf
+2017-11-21T21:22:28.814Z - info: Using extension fs-store
+2017-11-21T21:22:30.557Z - info: Using extension authorization
+2017-11-21T21:22:30.571Z - info: Using extension images
+2017-11-21T21:22:30.596Z - info: Using extension child-templates
+2017-11-21T21:22:30.622Z - info: Using extension browser-client
+2017-11-21T21:22:30.636Z - info: Using extension licensing
+2017-11-21T21:22:30.932Z - info: Using extension data
+2017-11-21T21:22:30.942Z - info: Using extension text
+2017-11-21T21:22:30.953Z - info: Using extension reports
+2017-11-21T21:22:30.994Z - info: Using extension resources
+2017-11-21T21:22:31.007Z - info: Using extension base
+2017-11-21T21:22:31.018Z - info: Using extension studio
+2017-11-21T21:22:31.718Z - info: Using extension html-to-xlsx
+2017-11-21T21:22:32.323Z - info: Using extension scripts
+2017-11-21T21:22:32.332Z - info: Using extension assets
+2017-11-21T21:22:32.363Z - info: Using extension scheduling
+2017-11-21T21:22:32.444Z - info: Using extension xlsx
+2017-11-21T21:22:33.699Z - info: Using extension sample-template
+2017-11-21T21:22:33.721Z - info: Using extension public-templates
+2017-11-21T21:22:33.759Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-21T21:22:34.377Z - info: Creating default express app.
+2017-11-21T21:22:34.805Z - info: jsreport server successfully started on http port: 5488
+2017-11-21T21:22:34.834Z - info: Verifying license key free
+2017-11-21T21:22:34.835Z - info: Using free license
+2017-11-21T21:22:34.839Z - info: reporter initialized
+2017-11-21T21:22:52.029Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-21T21:22:52.033Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-21T21:22:52.035Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-21T21:22:52.036Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-21T21:22:52.037Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-21T21:22:52.038Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-21T21:22:52.040Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-21T21:22:52.042Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-21T21:22:52.044Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-21T21:22:52.045Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-21T21:22:52.049Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-21T21:22:52.051Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-21T21:22:52.055Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-21T21:22:52.058Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-21T21:22:55.134Z - info: Rendering request 2 finished in 3101 ms requestId=2
+2017-11-21T21:22:55.172Z - info: Rendering request 5 finished in 3124 ms requestId=5
+2017-11-21T21:22:55.230Z - info: Rendering request 4 finished in 3194 ms requestId=4
+2017-11-21T21:22:55.234Z - info: Rendering request 7 finished in 3194 ms requestId=7
+2017-11-21T21:22:55.288Z - info: Rendering request 1 finished in 3260 ms requestId=1
+2017-11-21T21:22:55.332Z - info: Rendering request 3 finished in 3296 ms requestId=3
+2017-11-21T21:22:55.405Z - info: Rendering request 6 finished in 3366 ms requestId=6
+2017-11-21T21:23:49.896Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-21T21:23:49.897Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-21T21:23:49.898Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-21T21:23:49.899Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-21T21:23:50.976Z - info: Rendering request 9 finished in 1077 ms requestId=9
+2017-11-21T21:23:51.069Z - info: Rendering request 8 finished in 1174 ms requestId=8
+2017-11-21T21:50:40.515Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-21T21:50:40.519Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-21T21:50:40.521Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-21T21:50:40.523Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-21T21:50:41.606Z - info: Rendering request 11 finished in 1087 ms requestId=11
+2017-11-21T21:50:41.666Z - info: Rendering request 10 finished in 1156 ms requestId=10
+2017-11-22T20:43:51.159Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-22T20:43:51.161Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-22T20:43:51.164Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-22T20:43:51.173Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-22T20:43:51.301Z - info: Found 30 extensions
+2017-11-22T20:43:51.324Z - info: Using extension import-export
+2017-11-22T20:43:51.551Z - info: Using extension tags
+2017-11-22T20:43:51.559Z - info: Using extension templates
+2017-11-22T20:43:51.563Z - info: Using extension jsrender
+2017-11-22T20:43:51.565Z - info: Using extension cli
+2017-11-22T20:43:51.567Z - info: Using extension handlebars
+2017-11-22T20:43:51.569Z - info: Using extension debug
+2017-11-22T20:43:51.572Z - info: Using extension express
+2017-11-22T20:43:51.661Z - info: Using extension fop-pdf
+2017-11-22T20:43:51.671Z - info: Using extension phantom-pdf
+2017-11-22T20:43:51.728Z - info: Using extension fs-store
+2017-11-22T20:43:51.977Z - info: Using extension authorization
+2017-11-22T20:43:51.980Z - info: Using extension images
+2017-11-22T20:43:51.986Z - info: Using extension child-templates
+2017-11-22T20:43:51.990Z - info: Using extension browser-client
+2017-11-22T20:43:51.993Z - info: Using extension licensing
+2017-11-22T20:43:52.039Z - info: Using extension data
+2017-11-22T20:43:52.041Z - info: Using extension text
+2017-11-22T20:43:52.043Z - info: Using extension reports
+2017-11-22T20:43:52.049Z - info: Using extension resources
+2017-11-22T20:43:52.050Z - info: Using extension base
+2017-11-22T20:43:52.052Z - info: Using extension studio
+2017-11-22T20:43:52.146Z - info: Using extension html-to-xlsx
+2017-11-22T20:43:52.240Z - info: Using extension scripts
+2017-11-22T20:43:52.244Z - info: Using extension assets
+2017-11-22T20:43:52.251Z - info: Using extension scheduling
+2017-11-22T20:43:52.282Z - info: Using extension xlsx
+2017-11-22T20:43:52.437Z - info: Using extension sample-template
+2017-11-22T20:43:52.439Z - info: Using extension public-templates
+2017-11-22T20:43:52.448Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-22T20:43:52.701Z - info: Creating default express app.
+2017-11-22T20:43:52.763Z - info: jsreport server successfully started on http port: 5488
+2017-11-22T20:43:52.771Z - info: Verifying license key free
+2017-11-22T20:43:52.773Z - info: Using free license
+2017-11-22T20:43:52.778Z - info: reporter initialized
+2017-11-22T20:44:44.704Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-22T20:44:44.707Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-22T20:44:44.709Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-22T20:44:44.711Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-22T20:44:45.852Z - info: Rendering request 2 finished in 1145 ms requestId=2
+2017-11-22T20:44:45.861Z - info: Rendering request 1 finished in 1157 ms requestId=1
+2017-11-26T03:13:43.194Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-26T03:13:43.196Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-26T03:13:43.211Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-26T03:13:43.252Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-26T03:13:44.197Z - info: Found 30 extensions
+2017-11-26T03:13:44.215Z - info: Using extension import-export
+2017-11-26T03:13:46.503Z - info: Using extension tags
+2017-11-26T03:13:46.561Z - info: Using extension templates
+2017-11-26T03:13:46.598Z - info: Using extension jsrender
+2017-11-26T03:13:46.600Z - info: Using extension cli
+2017-11-26T03:13:46.601Z - info: Using extension handlebars
+2017-11-26T03:13:46.624Z - info: Using extension debug
+2017-11-26T03:13:46.637Z - info: Using extension express
+2017-11-26T03:13:47.236Z - info: Using extension fop-pdf
+2017-11-26T03:13:47.284Z - info: Using extension phantom-pdf
+2017-11-26T03:13:47.569Z - info: Using extension fs-store
+2017-11-26T03:13:49.455Z - info: Using extension authorization
+2017-11-26T03:13:49.469Z - info: Using extension images
+2017-11-26T03:13:49.496Z - info: Using extension child-templates
+2017-11-26T03:13:49.553Z - info: Using extension browser-client
+2017-11-26T03:13:49.584Z - info: Using extension licensing
+2017-11-26T03:13:49.989Z - info: Using extension data
+2017-11-26T03:13:49.998Z - info: Using extension text
+2017-11-26T03:13:50.009Z - info: Using extension reports
+2017-11-26T03:13:50.050Z - info: Using extension resources
+2017-11-26T03:13:50.064Z - info: Using extension base
+2017-11-26T03:13:50.075Z - info: Using extension studio
+2017-11-26T03:13:50.900Z - info: Using extension html-to-xlsx
+2017-11-26T03:13:51.671Z - info: Using extension scripts
+2017-11-26T03:13:51.680Z - info: Using extension assets
+2017-11-26T03:13:51.711Z - info: Using extension scheduling
+2017-11-26T03:13:51.813Z - info: Using extension xlsx
+2017-11-26T03:13:53.321Z - info: Using extension sample-template
+2017-11-26T03:13:53.352Z - info: Using extension public-templates
+2017-11-26T03:13:53.411Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-26T03:13:53.704Z - info: Creating default express app.
+2017-11-26T03:13:54.213Z - info: jsreport server successfully started on http port: 5488
+2017-11-26T03:13:54.281Z - info: Verifying license key free
+2017-11-26T03:13:54.282Z - info: Using free license
+2017-11-26T03:13:54.286Z - info: reporter initialized
+2017-11-26T03:14:43.670Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-26T03:14:43.675Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-26T03:14:43.677Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-26T03:14:43.680Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-26T03:14:43.680Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-26T03:14:43.683Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-26T03:14:43.687Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-26T03:14:43.690Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-26T03:14:43.693Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-26T03:14:43.695Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-26T03:14:43.699Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-26T03:14:43.704Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-26T03:14:48.673Z - info: Rendering request 6 finished in 4992 ms requestId=6
+2017-11-26T03:14:48.689Z - info: Rendering request 5 finished in 5007 ms requestId=5
+2017-11-26T03:14:48.696Z - info: Rendering request 4 finished in 5016 ms requestId=4
+2017-11-26T03:14:48.704Z - info: Rendering request 2 finished in 5030 ms requestId=2
+2017-11-26T03:14:48.709Z - info: Rendering request 3 finished in 5032 ms requestId=3
+2017-11-26T03:14:48.882Z - info: Rendering request 1 finished in 5212 ms requestId=1
+2017-11-26T03:15:54.823Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-26T03:15:54.827Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-26T03:15:54.828Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-26T03:15:54.829Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-26T03:15:54.829Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-26T03:15:54.830Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-26T03:15:54.831Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-26T03:15:54.833Z - info: Starting rendering request 14 (user: null) requestId=14
+2017-11-26T03:15:54.834Z - info: Starting rendering request 15 (user: null) requestId=15
+2017-11-26T03:15:54.836Z - info: Starting rendering request 16 (user: null) requestId=16
+2017-11-26T03:15:54.837Z - info: Starting rendering request 17 (user: null) requestId=17
+2017-11-26T03:15:54.838Z - info: Starting rendering request 18 (user: null) requestId=18
+2017-11-26T03:15:54.840Z - info: Starting rendering request 19 (user: null) requestId=19
+2017-11-26T03:15:54.842Z - info: Starting rendering request 20 (user: null) requestId=20
+2017-11-26T03:15:54.848Z - info: Starting rendering request 21 (user: null) requestId=21
+2017-11-26T03:15:54.849Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-26T03:15:54.851Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-26T03:15:54.852Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-26T03:15:54.854Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-26T03:15:54.857Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-26T03:15:54.861Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-26T03:15:54.863Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-26T03:15:54.869Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=14
+2017-11-26T03:15:54.878Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=15
+2017-11-26T03:15:54.883Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=16
+2017-11-26T03:15:54.892Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=17
+2017-11-26T03:15:54.894Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=18
+2017-11-26T03:15:54.899Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=19
+2017-11-26T03:15:54.910Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=20
+2017-11-26T03:15:54.911Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=21
+2017-11-26T03:16:04.389Z - info: Rendering request 8 finished in 9562 ms requestId=8
+2017-11-26T03:16:04.423Z - info: Rendering request 7 finished in 9598 ms requestId=7
+2017-11-26T03:16:04.426Z - info: Rendering request 10 finished in 9597 ms requestId=10
+2017-11-26T03:16:04.585Z - info: Rendering request 9 finished in 9757 ms requestId=9
+2017-11-26T03:16:04.589Z - info: Rendering request 11 finished in 9759 ms requestId=11
+2017-11-26T03:16:04.594Z - info: Rendering request 20 finished in 9751 ms requestId=20
+2017-11-26T03:16:04.598Z - info: Rendering request 15 finished in 9763 ms requestId=15
+2017-11-26T03:16:04.614Z - info: Rendering request 12 finished in 9783 ms requestId=12
+2017-11-26T03:16:04.751Z - info: Rendering request 18 finished in 9913 ms requestId=18
+2017-11-26T03:16:04.754Z - info: Rendering request 14 finished in 9921 ms requestId=14
+2017-11-26T03:16:04.760Z - info: Rendering request 17 finished in 9920 ms requestId=17
+2017-11-26T03:16:04.764Z - info: Rendering request 19 finished in 9924 ms requestId=19
+2017-11-26T03:16:04.769Z - info: Rendering request 13 finished in 9937 ms requestId=13
+2017-11-26T03:16:04.833Z - info: Rendering request 16 finished in 9996 ms requestId=16
+2017-11-26T03:16:04.855Z - info: Rendering request 21 finished in 10007 ms requestId=21
+2017-11-26T03:20:13.315Z - info: Starting rendering request 22 (user: null) requestId=22
+2017-11-26T03:20:13.320Z - info: Starting rendering request 23 (user: null) requestId=23
+2017-11-26T03:20:13.320Z - info: Starting rendering request 24 (user: null) requestId=24
+2017-11-26T03:20:13.321Z - info: Starting rendering request 25 (user: null) requestId=25
+2017-11-26T03:20:13.325Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=22
+2017-11-26T03:20:13.326Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=23
+2017-11-26T03:20:13.327Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=24
+2017-11-26T03:20:13.329Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=25
+2017-11-26T03:20:16.607Z - info: Rendering request 25 finished in 3286 ms requestId=25
+2017-11-26T03:20:16.612Z - info: Rendering request 23 finished in 3292 ms requestId=23
+2017-11-26T03:20:16.622Z - info: Rendering request 22 finished in 3306 ms requestId=22
+2017-11-26T03:20:16.672Z - info: Rendering request 24 finished in 3352 ms requestId=24
+2017-11-26T03:22:19.615Z - info: Starting rendering request 26 (user: null) requestId=26
+2017-11-26T03:22:19.617Z - info: Starting rendering request 27 (user: null) requestId=27
+2017-11-26T03:22:19.617Z - info: Starting rendering request 28 (user: null) requestId=28
+2017-11-26T03:22:19.619Z - info: Starting rendering request 29 (user: null) requestId=29
+2017-11-26T03:22:19.621Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=26
+2017-11-26T03:22:19.622Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=27
+2017-11-26T03:22:19.623Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=28
+2017-11-26T03:22:19.624Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=29
+2017-11-26T03:22:22.345Z - info: Rendering request 28 finished in 2727 ms requestId=28
+2017-11-26T03:22:22.356Z - info: Rendering request 27 finished in 2739 ms requestId=27
+2017-11-26T03:22:22.510Z - info: Rendering request 26 finished in 2895 ms requestId=26
+2017-11-26T03:22:22.682Z - info: Rendering request 29 finished in 3063 ms requestId=29
+2017-11-27T16:11:33.957Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-27T16:11:33.971Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-27T16:11:33.984Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-27T16:11:34.028Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-27T16:11:34.297Z - info: Found 30 extensions
+2017-11-27T16:11:34.340Z - info: Using extension import-export
+2017-11-27T16:11:35.966Z - info: Using extension tags
+2017-11-27T16:11:36.004Z - info: Using extension templates
+2017-11-27T16:11:36.029Z - info: Using extension jsrender
+2017-11-27T16:11:36.031Z - info: Using extension cli
+2017-11-27T16:11:36.033Z - info: Using extension handlebars
+2017-11-27T16:11:36.051Z - info: Using extension debug
+2017-11-27T16:11:36.059Z - info: Using extension express
+2017-11-27T16:11:36.644Z - info: Using extension fop-pdf
+2017-11-27T16:11:36.687Z - info: Using extension phantom-pdf
+2017-11-27T16:11:36.824Z - info: Using extension fs-store
+2017-11-27T16:11:38.635Z - info: Using extension authorization
+2017-11-27T16:11:38.651Z - info: Using extension images
+2017-11-27T16:11:38.676Z - info: Using extension child-templates
+2017-11-27T16:11:38.701Z - info: Using extension browser-client
+2017-11-27T16:11:38.715Z - info: Using extension licensing
+2017-11-27T16:11:39.046Z - info: Using extension data
+2017-11-27T16:11:39.055Z - info: Using extension text
+2017-11-27T16:11:39.065Z - info: Using extension reports
+2017-11-27T16:11:39.107Z - info: Using extension resources
+2017-11-27T16:11:39.119Z - info: Using extension base
+2017-11-27T16:11:39.136Z - info: Using extension studio
+2017-11-27T16:11:40.014Z - info: Using extension html-to-xlsx
+2017-11-27T16:11:40.655Z - info: Using extension scripts
+2017-11-27T16:11:40.669Z - info: Using extension assets
+2017-11-27T16:11:40.736Z - info: Using extension scheduling
+2017-11-27T16:11:40.817Z - info: Using extension xlsx
+2017-11-27T16:11:42.214Z - info: Using extension sample-template
+2017-11-27T16:11:42.233Z - info: Using extension public-templates
+2017-11-27T16:11:42.263Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-27T16:11:42.603Z - info: Creating default express app.
+2017-11-27T16:11:43.041Z - info: jsreport server successfully started on http port: 5488
+2017-11-27T16:11:43.079Z - info: Verifying license key free
+2017-11-27T16:11:43.080Z - info: Using free license
+2017-11-27T16:11:43.083Z - info: reporter initialized
+2017-11-27T16:12:40.538Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-27T16:12:40.541Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-27T16:12:42.371Z - info: Rendering request 1 finished in 1835 ms requestId=1
+2017-11-27T16:32:40.374Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-27T16:32:40.379Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-27T16:32:41.420Z - info: Rendering request 2 finished in 1049 ms requestId=2
+2017-11-27T16:38:05.478Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-27T16:38:05.482Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-27T16:38:06.470Z - info: Rendering request 3 finished in 996 ms requestId=3
+2017-11-27T16:39:44.822Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-27T16:39:44.825Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-27T16:39:45.721Z - info: Rendering request 4 finished in 900 ms requestId=4
+2017-11-27T16:41:03.555Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-27T16:41:03.558Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-27T16:41:04.542Z - info: Rendering request 5 finished in 988 ms requestId=5
+2017-11-27T16:44:13.159Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-27T16:44:13.160Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-27T16:44:14.191Z - info: Rendering request 6 finished in 1032 ms requestId=6
+2017-11-27T17:02:07.058Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-27T17:02:07.062Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-27T17:02:08.110Z - info: Rendering request 7 finished in 1055 ms requestId=7
+2017-11-27T17:03:19.035Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-27T17:03:19.036Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-27T17:03:19.038Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-27T17:03:19.039Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-27T17:03:19.040Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-27T17:03:19.042Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-27T17:03:19.043Z - info: Starting rendering request 14 (user: null) requestId=14
+2017-11-27T17:03:19.045Z - info: Starting rendering request 15 (user: null) requestId=15
+2017-11-27T17:03:19.045Z - info: Starting rendering request 16 (user: null) requestId=16
+2017-11-27T17:03:19.046Z - info: Starting rendering request 17 (user: null) requestId=17
+2017-11-27T17:03:19.048Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-27T17:03:19.049Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-27T17:03:19.050Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-27T17:03:19.051Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-27T17:03:19.052Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-27T17:03:19.054Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-27T17:03:19.054Z - info: Rendering template {shortid:rkJTnknbf, recipe:phantom-pdf,engine:handlebars} requestId=14
+2017-11-27T17:03:19.057Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=15
+2017-11-27T17:03:19.065Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=16
+2017-11-27T17:03:19.068Z - info: Rendering template {shortid:rkJTnKibz, recipe:phantom-pdf,engine:handlebars} requestId=17
+2017-11-27T17:03:23.076Z - info: Rendering request 10 finished in 4038 ms requestId=10
+2017-11-27T17:03:23.081Z - info: Rendering request 11 finished in 4040 ms requestId=11
+2017-11-27T17:03:23.219Z - info: Rendering request 12 finished in 4176 ms requestId=12
+2017-11-27T17:03:23.235Z - info: Rendering request 13 finished in 4193 ms requestId=13
+2017-11-27T17:03:23.243Z - info: Rendering request 9 finished in 4207 ms requestId=9
+2017-11-27T17:03:23.290Z - info: Rendering request 8 finished in 4255 ms requestId=8
+2017-11-27T17:03:23.375Z - info: Rendering request 17 finished in 4328 ms requestId=17
+2017-11-27T17:03:23.382Z - info: Rendering request 15 finished in 4337 ms requestId=15
+2017-11-27T17:03:23.386Z - info: Rendering request 14 finished in 4343 ms requestId=14
+2017-11-27T17:03:23.473Z - info: Rendering request 16 finished in 4427 ms requestId=16
+2017-11-27T17:28:38.582Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-27T17:28:38.583Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-27T17:28:38.585Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-27T17:28:38.593Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-27T17:28:38.758Z - info: Found 30 extensions
+2017-11-27T17:28:38.779Z - info: Using extension import-export
+2017-11-27T17:28:38.987Z - info: Using extension tags
+2017-11-27T17:28:38.993Z - info: Using extension templates
+2017-11-27T17:28:38.998Z - info: Using extension jsrender
+2017-11-27T17:28:39.000Z - info: Using extension cli
+2017-11-27T17:28:39.002Z - info: Using extension handlebars
+2017-11-27T17:28:39.004Z - info: Using extension debug
+2017-11-27T17:28:39.005Z - info: Using extension express
+2017-11-27T17:28:39.097Z - info: Using extension fop-pdf
+2017-11-27T17:28:39.103Z - info: Using extension phantom-pdf
+2017-11-27T17:28:39.160Z - info: Using extension fs-store
+2017-11-27T17:28:39.457Z - info: Using extension authorization
+2017-11-27T17:28:39.460Z - info: Using extension images
+2017-11-27T17:28:39.467Z - info: Using extension child-templates
+2017-11-27T17:28:39.471Z - info: Using extension browser-client
+2017-11-27T17:28:39.473Z - info: Using extension licensing
+2017-11-27T17:28:39.521Z - info: Using extension data
+2017-11-27T17:28:39.522Z - info: Using extension text
+2017-11-27T17:28:39.524Z - info: Using extension reports
+2017-11-27T17:28:39.530Z - info: Using extension resources
+2017-11-27T17:28:39.532Z - info: Using extension base
+2017-11-27T17:28:39.533Z - info: Using extension studio
+2017-11-27T17:28:39.619Z - info: Using extension html-to-xlsx
+2017-11-27T17:28:39.732Z - info: Using extension scripts
+2017-11-27T17:28:39.736Z - info: Using extension assets
+2017-11-27T17:28:39.742Z - info: Using extension scheduling
+2017-11-27T17:28:39.792Z - info: Using extension xlsx
+2017-11-27T17:28:40.000Z - info: Using extension sample-template
+2017-11-27T17:28:40.004Z - info: Using extension public-templates
+2017-11-27T17:28:40.011Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-27T17:28:40.289Z - info: Creating default express app.
+2017-11-27T17:28:40.349Z - info: jsreport server successfully started on http port: 5488
+2017-11-27T17:28:40.357Z - info: Verifying license key free
+2017-11-27T17:28:40.358Z - info: Using free license
+2017-11-27T17:28:40.364Z - info: reporter initialized
+2017-11-27T17:32:09.887Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-27T17:32:09.891Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-27T17:32:09.893Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-27T17:32:09.895Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-27T17:32:11.110Z - info: Rendering request 2 finished in 1218 ms requestId=2
+2017-11-27T17:32:11.140Z - info: Rendering request 1 finished in 1253 ms requestId=1
+2017-11-27T18:17:25.116Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-27T18:17:25.122Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-27T18:17:25.125Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-27T18:17:25.127Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-27T18:17:26.447Z - info: Rendering request 4 finished in 1326 ms requestId=4
+2017-11-27T18:17:26.494Z - info: Rendering request 3 finished in 1382 ms requestId=3
+2017-11-27T18:20:24.221Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-27T18:20:24.223Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-27T18:20:24.224Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-27T18:20:24.225Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-27T18:20:25.383Z - info: Rendering request 6 finished in 1161 ms requestId=6
+2017-11-27T18:20:25.413Z - info: Rendering request 5 finished in 1192 ms requestId=5
+2017-11-27T18:26:01.806Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-27T18:26:01.809Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-27T18:26:01.810Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-27T18:26:01.811Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-27T18:26:02.969Z - info: Rendering request 8 finished in 1160 ms requestId=8
+2017-11-27T18:26:03.020Z - info: Rendering request 7 finished in 1214 ms requestId=7
+2017-11-27T18:34:18.572Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-27T18:34:18.574Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-27T18:34:19.560Z - info: Rendering request 9 finished in 992 ms requestId=9
+2017-11-27T18:34:53.314Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-27T18:34:53.315Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-27T18:34:54.178Z - info: Rendering request 10 finished in 864 ms requestId=10
+2017-11-27T18:36:07.211Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-27T18:36:07.212Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-27T18:36:08.038Z - info: Rendering request 11 finished in 826 ms requestId=11
+2017-11-27T18:40:05.073Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-27T18:40:05.075Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-27T18:40:05.076Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-27T18:40:05.077Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-27T18:40:06.306Z - info: Rendering request 13 finished in 1230 ms requestId=13
+2017-11-27T18:40:06.346Z - info: Rendering request 12 finished in 1272 ms requestId=12
+2017-11-27T18:45:13.877Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-11-27T18:45:13.878Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-11-27T18:45:13.883Z - info: Searching for available extensions in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\
+2017-11-27T18:45:13.891Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\
+2017-11-27T18:45:14.024Z - info: Found 30 extensions
+2017-11-27T18:45:14.045Z - info: Using extension import-export
+2017-11-27T18:45:14.264Z - info: Using extension tags
+2017-11-27T18:45:14.273Z - info: Using extension templates
+2017-11-27T18:45:14.277Z - info: Using extension jsrender
+2017-11-27T18:45:14.279Z - info: Using extension cli
+2017-11-27T18:45:14.281Z - info: Using extension handlebars
+2017-11-27T18:45:14.283Z - info: Using extension debug
+2017-11-27T18:45:14.284Z - info: Using extension express
+2017-11-27T18:45:14.393Z - info: Using extension fop-pdf
+2017-11-27T18:45:14.402Z - info: Using extension phantom-pdf
+2017-11-27T18:45:14.471Z - info: Using extension fs-store
+2017-11-27T18:45:14.682Z - info: Using extension authorization
+2017-11-27T18:45:14.684Z - info: Using extension images
+2017-11-27T18:45:14.689Z - info: Using extension child-templates
+2017-11-27T18:45:14.693Z - info: Using extension browser-client
+2017-11-27T18:45:14.695Z - info: Using extension licensing
+2017-11-27T18:45:14.741Z - info: Using extension data
+2017-11-27T18:45:14.743Z - info: Using extension text
+2017-11-27T18:45:14.744Z - info: Using extension reports
+2017-11-27T18:45:14.749Z - info: Using extension resources
+2017-11-27T18:45:14.751Z - info: Using extension base
+2017-11-27T18:45:14.752Z - info: Using extension studio
+2017-11-27T18:45:14.828Z - info: Using extension html-to-xlsx
+2017-11-27T18:45:14.901Z - info: Using extension scripts
+2017-11-27T18:45:14.903Z - info: Using extension assets
+2017-11-27T18:45:14.909Z - info: Using extension scheduling
+2017-11-27T18:45:14.941Z - info: Using extension xlsx
+2017-11-27T18:45:15.075Z - info: Using extension sample-template
+2017-11-27T18:45:15.079Z - info: Using extension public-templates
+2017-11-27T18:45:15.086Z - info: Initializing fs storage at C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\data
+2017-11-27T18:45:15.259Z - info: Creating default express app.
+2017-11-27T18:45:15.308Z - info: jsreport server successfully started on http port: 5488
+2017-11-27T18:45:15.315Z - info: Verifying license key free
+2017-11-27T18:45:15.316Z - info: Using free license
+2017-11-27T18:45:15.320Z - info: reporter initialized
+2017-11-27T18:49:47.484Z - info: Starting rendering request 1 (user: null) requestId=1
+2017-11-27T18:49:47.489Z - info: Starting rendering request 2 (user: null) requestId=2
+2017-11-27T18:49:47.491Z - info: Starting rendering request 3 (user: null) requestId=3
+2017-11-27T18:49:47.493Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=1
+2017-11-27T18:49:47.496Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=2
+2017-11-27T18:49:47.500Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=3
+2017-11-27T18:49:48.989Z - info: Rendering request 1 finished in 1504 ms requestId=1
+2017-11-27T18:49:48.999Z - info: Rendering request 2 finished in 1508 ms requestId=2
+2017-11-27T18:49:49.006Z - info: Rendering request 3 finished in 1513 ms requestId=3
+2017-11-27T18:50:17.903Z - info: Starting rendering request 4 (user: null) requestId=4
+2017-11-27T18:50:17.905Z - info: Starting rendering request 5 (user: null) requestId=5
+2017-11-27T18:50:17.906Z - info: Starting rendering request 6 (user: null) requestId=6
+2017-11-27T18:50:17.909Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=4
+2017-11-27T18:50:17.910Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=5
+2017-11-27T18:50:17.912Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=6
+2017-11-27T18:50:19.317Z - info: Rendering request 6 finished in 1407 ms requestId=6
+2017-11-27T18:50:19.340Z - info: Rendering request 4 finished in 1437 ms requestId=4
+2017-11-27T18:50:19.346Z - info: Rendering request 5 finished in 1439 ms requestId=5
+2017-11-27T18:50:29.943Z - info: Starting rendering request 7 (user: null) requestId=7
+2017-11-27T18:50:29.945Z - info: Starting rendering request 8 (user: null) requestId=8
+2017-11-27T18:50:29.946Z - info: Starting rendering request 9 (user: null) requestId=9
+2017-11-27T18:50:29.947Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=7
+2017-11-27T18:50:29.950Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=8
+2017-11-27T18:50:29.951Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=9
+2017-11-27T18:50:31.294Z - info: Rendering request 9 finished in 1346 ms requestId=9
+2017-11-27T18:50:31.306Z - info: Rendering request 7 finished in 1362 ms requestId=7
+2017-11-27T18:50:31.386Z - info: Rendering request 8 finished in 1440 ms requestId=8
+2017-11-27T18:51:18.137Z - info: Starting rendering request 10 (user: null) requestId=10
+2017-11-27T18:51:18.139Z - info: Starting rendering request 11 (user: null) requestId=11
+2017-11-27T18:51:18.140Z - info: Starting rendering request 12 (user: null) requestId=12
+2017-11-27T18:51:18.141Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=10
+2017-11-27T18:51:18.144Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=11
+2017-11-27T18:51:18.145Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=12
+2017-11-27T18:51:19.476Z - info: Rendering request 12 finished in 1335 ms requestId=12
+2017-11-27T18:51:19.495Z - info: Rendering request 10 finished in 1358 ms requestId=10
+2017-11-27T18:51:19.535Z - info: Rendering request 11 finished in 1395 ms requestId=11
+2017-11-27T18:51:30.563Z - info: Starting rendering request 13 (user: null) requestId=13
+2017-11-27T18:51:30.563Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=13
+2017-11-27T18:51:31.477Z - info: Rendering request 13 finished in 914 ms requestId=13
+2017-11-27T18:58:00.775Z - info: Starting rendering request 14 (user: null) requestId=14
+2017-11-27T18:58:00.778Z - info: Starting rendering request 15 (user: null) requestId=15
+2017-11-27T18:58:00.779Z - info: Starting rendering request 16 (user: null) requestId=16
+2017-11-27T18:58:00.780Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=14
+2017-11-27T18:58:00.781Z - info: Rendering template {shortid:rkJTnK2cg, recipe:phantom-pdf,engine:handlebars} requestId=15
+2017-11-27T18:58:00.782Z - info: Rendering template {shortid:rkJTnK8jc, recipe:phantom-pdf,engine:handlebars} requestId=16
+2017-11-27T18:58:02.305Z - info: Rendering request 16 finished in 1526 ms requestId=16
+2017-11-27T18:58:02.324Z - info: Rendering request 15 finished in 1546 ms requestId=15
+2017-11-27T18:58:02.347Z - info: Rendering request 14 finished in 1572 ms requestId=14

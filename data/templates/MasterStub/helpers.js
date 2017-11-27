@@ -15,10 +15,5 @@ function getTotalAmount(masterStubs){
 }
 
 function getName(name, funding){
-    if(funding=="funded"){
-        return name;
-    }
-    else if(funding=="unfunded"){
-        return name+"*";
-    }
+    return name;
 }
