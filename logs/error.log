@@ -4954,3 +4954,1147 @@ Error: ENOENT: no such file or directory, open 'C:\Users\ernep\OneDrive\Ernesto\
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-01-16T07:21:52.739Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=34
+2018-01-16T07:21:52.742Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.238Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=44
+2018-01-18T19:59:04.240Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.256Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=47
+2018-01-18T19:59:04.258Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.262Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=48
+2018-01-18T19:59:04.263Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.266Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=49
+2018-01-18T19:59:04.266Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.431Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=52
+2018-01-18T19:59:04.503Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:04.781Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=53
+2018-01-18T19:59:04.782Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.091Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=54
+2018-01-18T19:59:05.091Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.218Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=55
+2018-01-18T19:59:05.296Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.417Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=56
+2018-01-18T19:59:05.461Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.576Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=57
+2018-01-18T19:59:05.647Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.741Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=58
+2018-01-18T19:59:05.794Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:05.946Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=59
+2018-01-18T19:59:05.991Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.134Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=60
+2018-01-18T19:59:06.197Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.224Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=61
+2018-01-18T19:59:06.235Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.270Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=62
+2018-01-18T19:59:06.276Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.288Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=63
+2018-01-18T19:59:06.292Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.309Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=64
+2018-01-18T19:59:06.313Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.322Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=65
+2018-01-18T19:59:06.325Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.334Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=66
+2018-01-18T19:59:06.336Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.363Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=67
+2018-01-18T19:59:06.368Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.378Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=68
+2018-01-18T19:59:06.379Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.382Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=69
+2018-01-18T19:59:06.383Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.387Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=70
+2018-01-18T19:59:06.390Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.403Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=71
+2018-01-18T19:59:06.404Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.407Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=72
+2018-01-18T19:59:06.409Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.413Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=73
+2018-01-18T19:59:06.414Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.419Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=74
+2018-01-18T19:59:06.420Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.426Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=75
+2018-01-18T19:59:06.427Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:06.432Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=76
+2018-01-18T19:59:06.433Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T19:59:07.038Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=77
+2018-01-18T19:59:07.039Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:30.060Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=119
+2018-01-18T20:06:30.062Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:30.071Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=127
+2018-01-18T20:06:30.072Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:30.075Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=128
+2018-01-18T20:06:30.076Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:30.531Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=131
+2018-01-18T20:06:30.579Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:30.654Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=132
+2018-01-18T20:06:30.756Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.242Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=134
+2018-01-18T20:06:31.243Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.248Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=135
+2018-01-18T20:06:31.249Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.256Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=136
+2018-01-18T20:06:31.257Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.419Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=138
+2018-01-18T20:06:31.420Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.429Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=139
+2018-01-18T20:06:31.430Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.437Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=140
+2018-01-18T20:06:31.438Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.445Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=141
+2018-01-18T20:06:31.446Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.450Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=142
+2018-01-18T20:06:31.451Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.459Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=143
+2018-01-18T20:06:31.460Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.469Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=144
+2018-01-18T20:06:31.470Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.474Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=145
+2018-01-18T20:06:31.475Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.479Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=146
+2018-01-18T20:06:31.480Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.484Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=147
+2018-01-18T20:06:31.485Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.490Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=148
+2018-01-18T20:06:31.491Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.504Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=150
+2018-01-18T20:06:31.504Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.514Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=151
+2018-01-18T20:06:31.616Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.745Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=152
+2018-01-18T20:06:31.811Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:31.982Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=153
+2018-01-18T20:06:32.099Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:32.248Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=154
+2018-01-18T20:06:32.333Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:32.461Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=155
+2018-01-18T20:06:32.519Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:32.576Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=156
+2018-01-18T20:06:32.621Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:32.654Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=157
+2018-01-18T20:06:32.703Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:33.002Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=158
+2018-01-18T20:06:33.032Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:33.083Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=159
+2018-01-18T20:06:33.116Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:33.159Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=160
+2018-01-18T20:06:33.180Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:33.221Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=161
+2018-01-18T20:06:33.233Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:06:33.286Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=162
+2018-01-18T20:06:33.354Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:36.952Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=215
+2018-01-18T20:18:37.023Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:37.389Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=216
+2018-01-18T20:18:37.465Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:37.515Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=218
+2018-01-18T20:18:37.567Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:37.633Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=219
+2018-01-18T20:18:37.682Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:37.758Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=220
+2018-01-18T20:18:37.776Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:37.861Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=221
+2018-01-18T20:18:37.925Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.001Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=222
+2018-01-18T20:18:38.031Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.067Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=223
+2018-01-18T20:18:38.073Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.108Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=224
+2018-01-18T20:18:38.128Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.151Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=225
+2018-01-18T20:18:38.160Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.280Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=226
+2018-01-18T20:18:38.317Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.462Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=227
+2018-01-18T20:18:38.485Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.595Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=228
+2018-01-18T20:18:38.713Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:38.894Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=229
+2018-01-18T20:18:38.981Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.079Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=230
+2018-01-18T20:18:39.099Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.165Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=231
+2018-01-18T20:18:39.179Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.332Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=232
+2018-01-18T20:18:39.333Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.337Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=233
+2018-01-18T20:18:39.338Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.340Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=234
+2018-01-18T20:18:39.341Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.343Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=235
+2018-01-18T20:18:39.344Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.346Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=236
+2018-01-18T20:18:39.346Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.348Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=238
+2018-01-18T20:18:39.349Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T20:18:39.512Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=239
+2018-01-18T20:18:39.513Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:47.657Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=544
+2018-01-18T21:04:47.660Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:47.670Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=546
+2018-01-18T21:04:47.671Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:47.674Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=547
+2018-01-18T21:04:47.675Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:47.678Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=550
+2018-01-18T21:04:47.679Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:48.160Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=552
+2018-01-18T21:04:48.186Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:04:52.642Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=559
+2018-01-18T21:04:52.650Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:42.030Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=590
+2018-01-18T21:06:42.032Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:42.044Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=591
+2018-01-18T21:06:42.045Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:42.047Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=592
+2018-01-18T21:06:42.048Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:42.231Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=594
+2018-01-18T21:06:42.231Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:42.666Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=597
+2018-01-18T21:06:42.667Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.104Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=598
+2018-01-18T21:06:43.104Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.125Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=599
+2018-01-18T21:06:43.126Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.254Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=601
+2018-01-18T21:06:43.278Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.316Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=602
+2018-01-18T21:06:43.326Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.361Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=604
+2018-01-18T21:06:43.380Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.443Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=605
+2018-01-18T21:06:43.518Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.635Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=607
+2018-01-18T21:06:43.686Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:43.777Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=608
+2018-01-18T21:06:43.866Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.034Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=609
+2018-01-18T21:06:44.078Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.197Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=610
+2018-01-18T21:06:44.240Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.269Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=611
+2018-01-18T21:06:44.280Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.311Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=612
+2018-01-18T21:06:44.338Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.415Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=613
+2018-01-18T21:06:44.427Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.496Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=614
+2018-01-18T21:06:44.531Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.605Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=615
+2018-01-18T21:06:44.687Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.772Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=616
+2018-01-18T21:06:44.837Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.850Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=617
+2018-01-18T21:06:44.858Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.874Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=618
+2018-01-18T21:06:44.881Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.900Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=619
+2018-01-18T21:06:44.907Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.925Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=620
+2018-01-18T21:06:44.935Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:44.967Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=621
+2018-01-18T21:06:45.000Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:06:45.044Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=622
+2018-01-18T21:06:45.048Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.004Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=660
+2018-01-18T21:08:56.006Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.055Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=661
+2018-01-18T21:08:56.056Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.060Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=662
+2018-01-18T21:08:56.061Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.064Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=664
+2018-01-18T21:08:56.065Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.153Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=665
+2018-01-18T21:08:56.154Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.575Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=667
+2018-01-18T21:08:56.607Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:56.716Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=668
+2018-01-18T21:08:56.789Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:57.337Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=669
+2018-01-18T21:08:57.409Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:57.457Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=670
+2018-01-18T21:08:57.496Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:57.588Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=671
+2018-01-18T21:08:57.640Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:57.695Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=672
+2018-01-18T21:08:57.724Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:57.786Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=673
+2018-01-18T21:08:57.859Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.071Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=674
+2018-01-18T21:08:58.189Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.327Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=675
+2018-01-18T21:08:58.411Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.557Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=676
+2018-01-18T21:08:58.636Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.665Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=677
+2018-01-18T21:08:58.669Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.679Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=678
+2018-01-18T21:08:58.725Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.843Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=679
+2018-01-18T21:08:58.920Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:58.986Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=680
+2018-01-18T21:08:59.015Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:59.044Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=681
+2018-01-18T21:08:59.044Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:59.051Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=682
+2018-01-18T21:08:59.051Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:59.093Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=683
+2018-01-18T21:08:59.094Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:59.100Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=684
+2018-01-18T21:08:59.101Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
+2018-01-18T21:08:59.105Z - error: Error when processing render request Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5) requestId=685
+2018-01-18T21:08:59.106Z - error: Error during processing request: http://localhost:5488/api/report details: Error during rendering report: Timeout error during executing script Error: Timeout error during executing script
+    at Timeout._onTimeout (C:\Users\ernep\OneDrive\Ernesto\CODE\bnotea-project\bnotea-report\node_modules\script-manager\lib\manager-processes.js:24:8)
+    at ontimeout (timers.js:386:14)
+    at Timer.unrefdHandle (timers.js:492:5)
